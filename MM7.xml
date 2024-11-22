@@ -1,13 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
-        </title>     
+            <title xml:lang="ta">TUYIL EḺUPPIYA KĀTAI</title> 
+            <title type="sub">The Canto in which [Maṇimēkalā Teyvam] wakes [Cutamati] from Sleep</title>
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -15,7 +11,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -25,7 +21,16 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="MM7-intro">
+      <p type="edition">ēḻāvatu maṇimēkalā teyvam uvavaṉam pukuntu cutamatiyait tuyil eḻuppiyapāṭṭu.</p>
+      <p type="translation" xml:lang="en">The seventh song, in which Maṇimēkalā Teyvam, having entered the pleasure-grove, awakens Cutamati from sleep.</p>
+    </div>
+    <div>
+      <p type="edition"></p>
+      <p type="translation" xml:lang="en">7.1-14 (14 lines) <term xml:lang="ta">Maṇimēkalā Teyvam</term> goes to <term xml:lang="ta">Utayakumāraṉ</term>, who was passing a sleepless night of love-sickness after seeing <term xml:lang="ta">Maṇimēkalai</term> in the grove (Canto 5) and urges him to give up his love, for the sake of good kingship. 
+      </p>
+    </div>
+    <div xml:id="MM7">
       <lg type="edition">
 <l>maṇimē kalaitaṉai maṇipal lavattiṭai</l>
 <l>maṇimē kalāteyvam vaittu nīṅki</l>
@@ -42,10 +47,24 @@
 <l>tavattiṟam pūṇṭō ṭaṉmēl vaitta</l>
 <l>vavattiṟa moḻikeṉ ṟavaṉvayi ṉuraittapiṉ</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l corresp="1-2">The deity Maṇimēkalā, having put Maṇimēkalai on [the island of] Maṇipallavam, and left, </l>
+<l corresp="7ab">[and] appeared in front of </l>
+<l corresp="3-4">Utayakumaraṉ, who had seen Maṇimēkalā in the flower grove, [deep-]felt sorrow having reached [him]/having attained [deep-]felt sorrow, </l>
+<l corresp="5">[and was] thinking, 'When the night ends, I'll have her in [the palm of] my hand'</l>
+<l corresp="6">being one who sat [up], not going to [his] bed which was as soft as the foaming [sea], </l>
+<l corresp="7cd">[said], 'O son of the king! </l>
+<l corresp="8">If the [king's] sceptre wavers in [its] position, the planets will swerve from [their] course. </l>
+<l corresp="9">If the planets swerve from [their] course, there will be excessive drought/drought will increase. </l>
+<l corresp="10">If there is excessive drought, there will be no lasting life/living beings will cease to be.</l>
+<l corresp="11-12">The king who rules the earth will become unworthy to call all living beings his own (lit. his life). </l>
+<l corresp="13-14ab">The harmful path that you have adopted towards her who has undertaken the path of penance: may it cease!' </l>
+<l corresp="14cd">After speaking thus to (lit. on/over) him – </l>
+</lg>  
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">29MG89MG26MG29MG19MG13MG4ML10MG22ML10MG18ML39ML34MG20ML25M3G3MG19M,427M</interp>
+<standOff type="wordsplit" corresp="#MM7"><interp type="alignment" select="0">29MG89MG26MG29MG19MG13MG4ML10MG22ML10MG18ML39ML34MG20ML25M3G3MG19M,427M</interp>
 <entry>
 <form>maṇimēkalai</form>
 <def>Maṇimēkalai</def>
@@ -624,4 +643,73 @@
   <gram type="role">postposition</gram>
 </gramGrp>
 </entry></standOff>
-</TEI>
+<standOff corresp="#MM7-intro" type="wordsplit">
+<interp type="alignment" select="0">69M,68MG</interp>
+<entry>
+<form>ēḻāvatu</form>
+<def>seventh</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṇimēkalā</form>
+<def>Maṇimēkalā</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>teyvam</form>
+<def>deity</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uvavaṉam</form>
+<def>pleasure garden</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pukuntu</form>
+<def>entered</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cutamatiyai<c type="geminated">t</c></form>
+<def>Cutamati</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+  <gram type="role">proper name</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuyil</form>
+<def>sleep</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eḻuppiya</form>
+<def>woke</def>
+<gramGrp>
+  <gram type="role">causative</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pāṭṭu</form>
+<def>song</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
