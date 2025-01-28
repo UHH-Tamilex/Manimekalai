@@ -12,7 +12,11 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary>
+              <p>7.1-14 (14 lines) <term xml:lang="ta">Maṇimēkalā Teyvam</term> goes to <term
+                  xml:lang="ta">Utayakumāraṉ</term>, who was passing a sleepless night of
+                love-sickness after seeing <term xml:lang="ta">Maṇimēkalai</term> in the grove
+                (Canto 5) and urges him to give up his love, for the sake of good kingship.</p>
             </summary>
           </msContents>    
         </msDesc>
@@ -28,7 +32,7 @@
     </div>
     <div>
       <p type="edition"/>
-      <p type="translation" xml:lang="en">7.1-14 (14 lines) <term xml:lang="ta">Maṇimēkalā Teyvam</term> goes to <term xml:lang="ta">Utayakumāraṉ</term>, who was passing a sleepless night of love-sickness after seeing <term xml:lang="ta">Maṇimēkalai</term> in the grove (Canto 5) and urges him to give up his love, for the sake of good kingship. 
+      <p type="translation" xml:lang="en"> 
       </p>
     </div>
     <div xml:id="MM7">
@@ -78,6 +82,12 @@
 <l corresp="22">have set her down, without a single deceit, on the island of Maṇipallavam. </l>
 </lg>  
     </div>
+  </body>
+</text>
+<text xml:lang="ta">
+  <body>
+  <p>ONE PARAGRAPH OF COMMENTARY</p>
+  <p>ANOTHER PARAGRAPH OF COMMENTARY</p>
   </body>
 </text>
 <standOff corresp="#MM7-intro" type="wordsplit">
