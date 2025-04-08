@@ -1,0 +1,1060 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="ta">Patikam</title>
+        <title type="sub">Preface (98 lines) </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p>0.1-31 (31 lines) INTRODUCTION: Aetiology of the name <term xml:lang="ta">
+                Kāvirippūmpaṭṭiṉam</term> being given to the city of <term xml:lang="ta">Campāpati</term>
+                .</p>
+              <p>0.32-94 (63 lines) CHAPTER SYNOPSIS.</p>
+              <p>95-98 (4 lines) CONCLUSION: The author Cāttaṉ.</p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta">
+    <body>
+      <div xml:id="MM0-intro">
+        <p type="edition">(katai poti pāṭṭu.)</p>
+        <p type="translation" xml:lang="en">(The canto which contains the story.)</p>
+      </div>
+      <div>
+        <p type="edition"/>
+        <p type="translation" xml:lang="en">
+        </p>
+      </div>
+      <div xml:id="MM0">
+        <lg type="edition">
+          <l>iḷaṅkatir ñāyi ṟeḷḷun tōṟṟattu</l>
+          <l>viḷaṅkoḷi mēṉi viricaṭai yāṭṭi</l>
+          <l>poṉṟikaḻ neṭuvarai yuccit tōṉṟit</l>
+          <l>teṉṟicaip peyarntavit tīvat teyvatañ</l>
+          <l>cākaic campu taṉkīḻ niṉṟu </l>
+          <l>mānila maṭantaikku varuntuyar kēṭṭu</l>
+          <l>ventiṟa larakkarkku vempakai nōṟṟa</l>
+          <l>campu veṉpāḷ campā patiyiṉaḷ</l>
+          <l>ceṅkatirc celvaṉ ṟirukkulam viḷakkuṅ</l>
+          <l>kañca vēṭkaiyiṟ kāntamaṉ vēṇṭa </l>
+          <l>vamara muṉiva ṉakattiyaṉ ṟaṉātu</l>
+          <l>karakaṅ kaviḻtta kāvirip pāvai</l>
+          <l>ceṅkuṇak koḻukiyac campā patiyayaṟ</l>
+          <!--
+                    
+          <l>poṅkunīrp parappoṭu poruntit tōṉṟa</l>
+          <l>vāṅkiṉi tirunta varuntava mutiyō </l>
+          <l>ḷōṅkunīrp pāvaiyai yuvantetir koṇṭāṅ</l>
+          <l>kāṇu vicumpi ṉākāya kaṅkai</l>
+          <l>vēṇavāt tīrtta viḷakkē vāveṉap</l>
+          <l>piṉṉilai muṉiyāp peruntavaṉ kēṭṭīṅ</l>
+          <l>kaṉṉai kēḷiv varuntava mutiyō</l>
+          <l>ṇiṉṉāl vaṇaṅkun taṉmaiyaḷ vaṇaṅkeṉap</l>
+          <l> pāṭalcāl ciṟappiṟ paratat tōṅkiya</l>
+          <l>kōṭāc ceṅkōṟ cōḻartaṅ kulakkoṭi</l>
+          <l>kōṇilai tirintu kōṭai nīṭiṉun</l>
+          <l>tāṉilai tiriyāt taṇṭamiḻp pāvai </l>
+          <l>toḻutaṉa ṇiṟpavat toṉmū tāṭṭi</l>
+          <l>kaḻumiya vuvakaiyiṟ kavāṟkoṇ ṭiruntu</l>
+          <l>teyvak karuvun ticaimukak karuvuñ</l>
+          <l>cemmalar mutiyōṉ ceyta vannā</l>
+          <l>ḷeṉpeyarp paṭuttaviv virumpeyar mūtūr</l>
+          <l>niṉpeyarp paṭuttē ṉīvā ḻiyaveṉa</l>
+          <l>virupāṟ peyariya vurukeḻu mūtū</l>
+          <l>rorunūṟu vēḷvi yuravōṉ ṟaṉakkup</l>
+          <l>peruviḻā vaṟaintatum perukiya talareṉac</l>
+          <l>citainta neñciṟ cittirā patitāṉ </l>
+          <l>vayanta mālaiyāṉ mātavik kuraittatu</l>
+          <l>maṇimē kalaitāṉ māmalar koyya</l>
+          <l>vaṇimalarp pūmpoḻi lakavayiṟ ceṉṟatu</l>
+          <l>māṅkap pūmpoḻi laraciḷaṅ kumaraṉaip</l>
+          <l>pāṅkiṟ kaṇṭavaḷ paḷikkaṟai pukkatum</l>
+          <l>paḷikkaṟai pukka pāvaiyaik kaṇṭavaṉ </l>
+          <l>ṟuḷakkuṟu neñciṟ ṟuyaroṭum pōyapiṉ</l>
+          <l>maṇimē kalāteyvam vantutōṉ ṟiyatum</l>
+          <l>maṇimē kalaiyaimaṇi pallavat tuyttatu</l>
+          <l>muvavaṉa maruṅkiṉav vuraicā ṟeyvatañ </l>
+          <l>cutamati taṉṉait tuyileṭup piyatūu</l>
+          <l>māṅkat tīvakat tāyiḻai nallā</l>
+          <l>ṭāṉṟuyi luṇarntu taṉittuya ruḻantatu</l>
+          <l>muḻantō ḷāṅkaṇō roḷimaṇip pīṭikaip</l>
+          <l>paḻampiṟap pellām pāṉmaiyi ṉuṇarntatu </l>
+          <l>muṇarntōṇ muṉṉa ruyarteyvaṉ tōṉṟi</l>
+          <l>maṉaṅkava loḻikeṉa mantiraṅ koṭuttatun</l>
+          <l>tīpa tilakai cevvaṉan tōṉṟi</l>
+          <l>māperum pāttira maṭakkoṭik kaḷittatum</l>
+          <l>pāttiram peṟṟa paintoṭi tāyaro </l>
+          <l>ṭiyāppuṟu mātavat taṟavaṇart toḻutatu</l>
+          <l>maṟavaṇa vaṭika ḷāput tiraṉṟiṟa</l>
+          <l>naṟumalark kōtaikku naṉkaṉa muraittatu</l>
+          <l>maṅkaip pāttira māput tiraṉpāṟ</l>
+          <l>cintā tēvi koṭutta vaṇṇamu </l>
+          <l>maṟṟap pāttira maṭakkoṭi yēntip</l>
+          <l>piccaik kavvūrp perunteru vaṭaintatum</l>
+          <l>piccai yēṟṟa peyvaḷai kaṭiñaiyiṟ</l>
+          <l>pattiṉip peṇṭir pāttū ṇīttatuṅ</l>
+          <l>kārikai nallāḷ kāyacaṇ ṭikaivayiṟ </l>
+          <l>ṟāṉait tīkkeṭut tampala maṭaintatu</l>
+          <l>mampala maṭaintaṉa ḷāyiḻai yeṉṟē</l>
+          <l>koṅkalar naṟuntārk kōmakaṉ ceṉṟatu</l>
+          <l>mampala maṭainta varaciḷaṅ kumaraṉmuṉ</l>
+          <l>vañca viñcaiyaṉ makaḷvaṭi vāki </l>
+          <l>maṟañcey vēlōṉ vāṉciṟaik kōṭṭa</l>
+          <l>maṟañcey kōṭṭa mākkiya vaṇṇamuṅ</l>
+          <l>kāyacaṇ ṭikaiyeṉa viñcaik kāñcaṉa</l>
+          <l>ṉāyiḻai taṉṉai yakalā taṇukalum</l>
+          <l>vañca viñcaiyaṉ maṉṉavaṉ ciṟuvaṉai </l>
+          <l>maintuṭai vāḷiṟ ṟappiya vaṇṇamu</l>
+          <l>maiyari yuṇka ṇavaṉṟuyar poṟāa</l>
+          <l>ṭeyvak kiḷaviyiṟ ṟeḷinta vaṇṇamu</l>
+          <l>maṟaikaḻal vēnta ṉāyiḻai taṉṉaic</l>
+          <l>ciṟaicey keṉṟatuñ ciṟaivīṭu ceytatu </l>
+          <l>naṟumalark kōtaikku nallaṟa muraittāṅ</l>
+          <l>kāyvaḷai yāput tiraṉā ṭaṭaintatu</l>
+          <l>māṅkuvaṉ ṟaṉṉō ṭaṇiyiḻai pōki</l>
+          <l>yōṅkiya maṇipal lavattiṭai yuṟṟatu</l>
+          <l>muṟṟava ḷāṅkō ruyartavaṉ vaṭivāyp </l>
+          <l>poṟkoṭi vañciyiṟ poruntiya vaṇṇamu</l>
+          <l>navaiyaṟu naṉporu ḷuraimi ṉōveṉac</l>
+          <l>camayak kaṇakkar tantiṟaṅ kēṭṭatu</l>
+          <l>māṅkat tāyarō ṭaṟavaṇart tērntu</l>
+          <l>pūṅkoṭi kacci mānakar pukkatum</l>
+          <l>pukkavaḷ koṇṭa poyyuruk kaḷaintu</l>
+          <l>maṟṟavar pātam vaṇaṅkiya vaṇṇamun</l>
+          <l>tavattiṟam pūṇṭu tarumaṅ kēṭṭup</l>
+          <l>pavattiṟa maṟukeṉap pāvai nōṟṟatu</l>
+          <l>miḷaṅkō vēnta ṉaruḷik kēṭpa </l>
+          <l>vaḷaṅkeḻu kūla vāṇikaṉ cāttaṉ</l>
+          <l>māvaṇ ṭamiḻttiṟa maṇimē kalaituṟa</l>
+          <l>vāṟaim pāṭṭiṉu ḷaṟiyavait taṉaṉeṉ</l>
+-->
+        </lg>
+        <lg type="translation" xml:lang="en">
+          <l corresp="1">With an appearance that put the the young-rayed (i.e. rising) sun to shame, </l>
+          <l corresp="2">a lady with flowing matted locks [and] with a body of shining brightness,</l>
+          <l corresp="3">having appeared on the summit of the tall mountain that glitters with/like
+            gold (Mēru)</l>
+          <l corresp="4">[she] who had departed towards the south, [she who is] the
+            deity of this
+            island,</l>
+          <l corresp="5">having stopped beneath a branching Jaumoon plum tree,</l>
+          <l corresp="6">having heard of the sorrow coming to Great Lady Earth,</l>
+          <l corresp="7">[she
+            who] had done penance as a harsh enemy to/who had endured the harsh emnity of the demons
+            of harsh vigour</l>
+          <l corresp="8">she who is called 'Campu'('Jaumoon Plum'), the Lady of
+            Campāpati ('Town of Jaumoon Plums')–</l>
+          <l corresp="14"> when there appeared, having
+            mingled with the expanse of foaming water (i.e. the sea)</l>
+          <l corresp="13">near to [the
+            town of] Campāpati, whither
+            she had flowed straight towards
+            the east,</l>
+          <l corresp="12">the Maiden Kāviri, who had been poured from his pitcher</l>
+          <l corresp="11">by the immortal sage Akattiyaṉ,</l>
+          <l corresp="10">[Akattiyaṉ] to whom the
+            lovely king/King Kānta/[King] Kāntamaṉ had
+            sacrificed, with desire for the River Gaṅgā,</l>
+          <l corresp="9"> [Gaṅgā] who exalts the
+            luminuous/sacred family of the red-rayed lord [the
+            Sun].</l>
+          <l corresp="15">the ancient female of extreme austerities [Campu], who was
+            sweetly seated
+            there [in the town of Campāpati],</l>
+          <l corresp="16">having gladly/joyfully received the
+            maiden of
+            spreading/high-rising/flooding
+            waters [Kāviri] there</l>
+          <l corresp="17">with the words, 'O aetherial Gaṅgā, from the
+            affectionate sky!'</l>
+          <l corresp="18">Come, o lamp which puts an end to intense desire!'</l>
+          <l corresp="19">the man of great penance who doesn't hate (i.e. prefers; or
+            preferred) a back position [Akattiyaṉ], having heard [what had
+            happened] here, </l>
+          <l corresp="20ab"> said [to Kāviri], 'O mother, listen!</l>
+          <l corresp="20cd-21">bow down to this ancient lady of extreme austerities [Campu], who is
+            worthy to be (lit. who is of a nature to be) bowed
+            down to by you!' </l>
+          <l corresp="23"> [And so] the creeper/flag of the Cōḻa family of
+            the undeviating, straight sceptre</l>
+          <l corresp="22">–[the Cōḻa family/the
+            sceptre] that has become famous (lit. grown high) in India because of its excellence
+            which
+            is worthy to be sung–</l>
+          <l corresp="25">the cool Tamil maiden (Kāviri), who does
+            not change [her] position [i.e. she doesn't dry out], </l>
+          <l corresp="24">although,
+            because of the planets changing [their] positions, the summers last longer [there]–</l>
+          <l corresp="26">stood still as one who worshipped [Campu]. That very ancient lady [Campu], </l>
+          <l corresp="27">having sat, taking [Kāviri] [onto her] lap with overflowing joy, </l>
+          <l corresp="29">said, 'On that day on which the ancient one of the red flower [Brahmā]
+            made </l>
+          <l corresp="28"> the embryos of gods and the embryos of Brahmā</l>
+          <l corresp="30">this
+            ancient city of great name took on my name [Campāpati]. </l>
+          <l corresp="31">[Now]
+            I have given [it] your name (Kāvirippūmpaṭṭiṉam). May you live [long]!' </l>
+          <l corresp="34a-b">(1) The announcement [by drum] of the Great Festival </l>
+          <l corresp="32">
+            in the beautiful ancient city with a two-part name</l>
+          <l corresp="33"> to the strong one
+            [Indra] [in the form of] one hundred sacrifices; </l>
+          <l corresp="35"> (2) and the saying
+            to Mātavi through Vayantamālai </l>
+          <l corresp="36"> by Cittirāpati with broken heart </l>
+          <l corresp="34cd"> that the gossip had become big; </l>
+          <l corresp="37-38"> (3) and the going by Maṇimēkalai inside the flower-grove with its beautiful blossoms in order to
+            pluck big blossoms, </l>
+          <l corresp="40">(4) and the entering of the Crystal Chamber, after she
+            had seen in the area </l>
+          <l corresp="39"> the royal young prince there in that flower-grove; </l>
+          <l corresp="41"> (5) and that man [the young prince], having seen the girl [Maṇimēkalai]
+            who had entered the Crystal Chamber,</l>
+          <l corresp="42"> after he had left with grief in his trembling heart; </l>
+          <l corresp="43"> the coming and manifesting of Maṇimēkalā Deity; </l>
+          <l corresp="44"> (6) and the carrying off of Maṇimēkalai to Maṇipallavam –</l>
+          <l corresp="46"> (7) and the rousing of Cutamati from sleep </l>
+          <l corresp="45"> in the garden by that deity worthy to be spoken of; </l>
+          <l corresp="48"> (8) and the waking from sleep and the suffering of singular/solitary
+            grief </l>
+          <l corresp="47"> by the good girl with choice jewels [Maṇimēkalai] there in the interior
+            of that island;</l>
+          <l corresp="50"> and (9) the realisation of the nature of all her previous
+            births</l>
+          <l corresp="49"> by her who had suffered through the unique pedestal of shining gems
+            there;</l>
+          <l corresp="52"> and (10) the giving of a mantra with the words, 'May the anxiety in
+            [your] heart-mind cease!' </l>
+          <l corresp="51"> by the high goddess [Maṇimēkalā], having appeared before her who had had an
+            epiphany; </l>
+          <l corresp="54"> and (11) the bestowing on the Innocent Creeper [Maṇimēkalai] a very big
+            vessel, </l>
+          <l corresp="53"> by Tīpatilakai, having appeared appropriately; </l>
+          <l corresp="56"> and (12) the paying obeisance to Aṟavaṇar of great binding penance </l>
+          <l corresp="55"> by the the Girl with Green-gold Bangles [Maṇimēkalai] together with
+            [her] mothers [i.e. her mother Mātavi and friend Cutamati] </l>
+          <l corresp="58"> and (13) the narrating in a good way to the Fragrant Flower Garland
+            [Maṇimēkalai],</l>
+          <l corresp="57"> of the history/origin-story of Āputtiraṉ by His Holiness Aṟavaṇar; </l>
+<l corresp="60"> and (14) the manner in which Cintātēvi gave </l>
+<l corresp="59"> the vessel to Āputtiraṉ from the palm of her hand; </l>
+<l corresp="62">62	and (15) furthermore the approaching of a big street of that city  </l>
+<l corresp="61"> by the Innocent Creeper, holding up that vessel for alms; </l>
+<l corresp="64"> and (16) the bestowing of alms by the Chaste Lady/Ladies </l>
+<l corresp="63"> into the begging bowl of the Bangle-wearing Girl who had received alms </l>
+<l corresp="66">	and (17) the approaching of the assembly hall, after curing the insatiable hunger</l>
+<l corresp="65"> in the stomach of Kāyacaṇṭikai by the beautiful good girl; </l>
+<l corresp="68"> and (18) the going by the king's son [Utayakumaraṉ] [wearing] a garland fragrant with pollen[-producing] flowers</l>
+<l corresp="67">	thinking that the Girl with Choice Jewels had approached the assembly hall; </l>
+<l corresp="70"> and (19) [Maṇimēkalai] having taken on the form i.e. disguise of the daughter of Vañcaviñcaiyaṉ [Kāyacaṇṭikai]</l>
+<l corresp="69">	in front of the royal young prince who had approached the assembly hall – </l>
+<l corresp="72-71"> the manner in which she transformed the sky/heaven/pure-jail-enclosure of the spearman who performed deeds of bravery i.e. violence/warfare [Cōḻa king]/ of the sky-jail-enclosure of the spearman where deeds of bravery i.e. violence/warfare were performed into an enclosure in which dharma is performed; </l>
+<l corresp="74">	and (20) the approaching and not withdrawing from the Girl with Choice Jewels </l>
+<l corresp="73">	by Viñcaikkāñcaṉaṉ, thinking that [she] was Kāyacaṇṭikai;  </l>
+<l corresp="76-75"> and (21) the manner in which Vañcaviñcaiyaṉ kills with [his] strong sword the king's child [Utayakumaraṉ]; </l>
+<l corresp="78-77">	and (22) the manner in which she with kohl eyes with red lines of kohl (i.e. the kohl is streaming?) who couldn't bear the sorrow on account of him understood the words (obl. stands for acc here) of the goddess. </l>
+<l corresp="80-79">	and (23) the king with the sounding anklets (Māvaṇkiḷḷi)  saying 'Let [the Girl with] Choice Jewels be imprisoned!', and [later] releasing [her];</l>
+<l corresp="82"> and (24) the [Girl with] Choice Bangles reaching the land of Āputtiraṉ, </l>
+<l corresp="81"> after having talked about good dharma to the [Lady with] the Fragrant Flower Garland [the Cōḻa Queen]; </l>
+<l corresp="84"> and (25) the setting out to high Maṇipallavam </l>
+<l corresp="83"> by the [Girl with] Ornamental Jewels, after she had gone there with him [Āputtiraṉ];</l>
+<l corresp="86-85">	and (26) the manner in which she who had undertaken [this´journey], after taking on the disguise of a man of high penance, reached Vañci with its gold banners; </l>
+<l corresp="88"> and (27) her asking religious experts [to tell her] their history, </l>
+<l corresp="87"> saying, 'Please tell [me] about the good, flawless meanings!'</l>
+<l corresp="90"> and (28) the Flower Creeper entering the great city of Kāñci,</l>
+<l corresp="89"> after seeking Aṟavaṇar there with those (i.e.above mentioned) mothers/that mother; </l>
+<l corresp="91"> and (29) after she who had entered [the city] had removed the disguise that she had adopted,  </l>
+<l corresp="92"> furthermore the manner in which she bowed to his [Aṟavaṇar's] feet; </l>
+<l corresp="93"> and (30) after adopting the moral practice of penance, and listening to dharma, </l>
+<l corresp="94"> the doing of penance by the maiden, saying 'Let the power of sin be cut away!'. </l>
+<l corresp="95"> When King Iḷaṅkō graciously asked, </l>
+<l corresp="96"> the wealthy grain-merchant Cāttaṉ</l>
+<l corresp="98"> composed, for [the world] to know, in thirty cantos,</l>
+<l corresp="97"> the 'Renunication of Maṇimēkalai', through the great, liberal i.e. multifaceted Tamil language. </l>
+
+
+
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <text xml:lang="ta">
+    <body>
+      <p>ONE PARAGRAPH OF COMMENTARY</p>
+      <p>ANOTHER PARAGRAPH OF COMMENTARY</p>
+    </body>
+  </text>
+  <standOff corresp="#MM0-intro" type="wordsplit">
+    <interp type="alignment" select="0">17M,G14M2G</interp>
+    <entry>
+      <form>katai</form>
+      <def>story</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>poti</form>
+      <def>contain</def>
+      <gramGrp>
+        <gram type="role">verbal root as peyareccam imperfective aspect</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>pāṭṭu</form>
+      <def>song/canto</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+  </standOff>
+  <standOff type="wordsplit" corresp="#MM0">
+<interp type="alignment" select="0">14MG19MG112ML133MR72MG2541M,413MGM66GM25GM32G2M18GM3G5MGM57GM31GM52GM8GM4GM7G3M3GM9GM27GM15GM27G2M11GM106GM166G2M19GM81G2M8G2M3GM15GM3GM26G5M9GM3GM8G2M80GM17G2M60GM18GM32GM22GM2G2M115GM21G2M3GM49G3MGMGM36GM3GM37GM25G2M51GM47G2M33GM5GM16GMGM72GM9GM18GM8GM3GM14G2M9G2M4G2M33GM2GM3GM40G2M63GM59GM17GM3GM17GM7GM29GM10GM47GM7GM17GM63G3M15GM21GM24G3M16GM95G4M122G</interp>
+<entry>
+<form>iḷam</form>
+<def>young</def>
+<form type="sandhi">iḷaṅ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>katir</form>
+<def>ray</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ñāyiṟ<c type="elided">u</c></form>
+<def>sun</def>
+<form type="sandhi">ñāyiṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eḷḷum</form>
+<def>deriding/scorning</def>
+<form type="sandhi">eḷḷun</form>
+<gramGrp>
+  <gram type="role">imperfect aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōṟṟattu</form>
+<def>appearance</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viḷaṅk<c type="elided">u</c></form>
+<def>shine</def>
+<form type="sandhi">viḷaṅk</form>
+<gramGrp>
+  <gram type="role">verbal root as peyareccam imperfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oḷi</form>
+<def>light/brightness/splendour</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mēṉi</form>
+<def>body</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viri</form>
+<def>expand/spread/open(v.r.pey.i.a..)</def>
+<gramGrp>
+  <gram type="role">verbal root as peyareccam imperfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>caṭai</form>
+<def>matted locks</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>āṭṭi</form>
+<def>woman</def>
+<gramGrp>
+  <gram type="role">feminine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poṉ</form>
+<def>gold</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tikaḻ</form>
+<def>glitter</def>
+<form type="sandhi">ṟikaḻ</form>
+<gramGrp>
+  <gram type="role">verbal root as peyareccam imperfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>neṭu</form>
+<def>tall</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varai</form>
+<def>mountain</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ucci<c type="geminated">t</c></form>
+<def>peak</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōṉṟi<c type="geminated">t</c></form>
+<def>appeared</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>teṉ</form>
+<def>south</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ticai<c type="geminated">p</c></form>
+<def>direction</def>
+<form type="sandhi">ṟicai<c type="geminated">p</c></form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peyarnta</form>
+<def>moved/departed</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>i<c type="geminated">t</c></form>
+<def>this</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tīva<c type="geminated">t</c></form>
+<def>island</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>teyvatam</form>
+<def>deity</def>
+<form type="sandhi">teyvatañ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cākai<c type="geminated">c</c></form>
+<def>branch/abode</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>campu</form>
+<def>Jaumoon, Malabar, Jāva Plum tree, Syzygium cumini</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṉ</form>
+<def>self</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">oblique</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kīḻ</form>
+<def>beneath</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niṉṟu</form>
+<def>stood</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mā</form>
+<def>great</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nilam</form>
+<def>earth</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṭantaikku</form>
+<def>woman/girl</def>
+<gramGrp>
+  <gram type="role">feminine singular</gram>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>arum</form>
+<def>coming</def>
+<form type="sandhi"><c type="glide">v</c>arun</form>
+<gramGrp>
+  <gram type="role">imperfect aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuyar</form>
+<def>sorrow/misfortune</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kēṭṭu</form>
+<def>heard</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vem</form>
+<def>hot/harsh</def>
+<form type="sandhi">ven</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tiṟal</form>
+<def>vigour</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>arakkarkku</form>
+<def>rakṣasa demon</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vem</form>
+<def>hot/harsh</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pakai</form>
+<def>emnity/enemy</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nōṟṟa</form>
+<def>endured/suffered/done penance</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>campu</form>
+<def>Campu</def>
+<gramGrp>
+  <gram type="role">proper name</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṉpāḷ</form>
+<def>called-she</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">feminine singular</gram>
+  <gram type="role">imperfect aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>campāpatiyiṉaḷ</form>
+<def>Campāpati-she</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">feminine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cem</form>
+<def>red/spotless/beautiful</def>
+<form type="sandhi">ceṅ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>katir<c type="geminated">c</c></form>
+<def>ray</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>celvaṉ</form>
+<def>lord/wealth-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tiru<c type="geminated">k</c></form>
+<def>sacred</def>
+<form type="sandhi">ṟiru<c type="geminated">k</c></form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kulam</form>
+<def>family</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viḷakkum</form>
+<def>making shine/causing to be illustrious</def>
+<form type="sandhi">viḷakkuṅ</form>
+<gramGrp>
+  <gram type="role">imperfect aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kañca</form>
+<def>River Gaṅgā</def>
+<gramGrp>
+  <gram type="role">proper name</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṭkaiyiṉ</form>
+<def>desire/longing</def>
+<form type="sandhi">vēṭkaiyiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kānta<c type="uncertain">m</c></form>
+<def>beauty/loveliness</def>
+<form type="sandhi">kāntam</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṉ</form>
+<def>king</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṇṭa</form>
+<def>desired/sacrificed</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>amara</form>
+<def>immortal</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muṉivaṉ</form>
+<def>sage</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>akattiyaṉ</form>
+<def>Akattiyaṉ</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">proper name</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṉātu</form>
+<def>his</def>
+<form type="sandhi">ṟaṉātu</form>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">genitive</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>karakam</form>
+<def>pitcher</def>
+<form type="sandhi">karakaṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaviḻtta</form>
+<def>tipped</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāviri<c type="geminated">p</c></form>
+<def>Kāvērī River</def>
+<gramGrp>
+  <gram type="role">proper name</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pāvai</form>
+<def>girl/doll</def>
+<gramGrp>
+  <gram type="role">feminine singular</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cem</form>
+<def>straight</def>
+<form type="sandhi">ceṅ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṇakk<c type="elided">u</c></form>
+<def>east</def>
+<form type="sandhi">kuṇakk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oḻuki</form>
+<def>flowed</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>a<c type="geminated">c</c></form>
+<def>that</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>campāpati</form>
+<def>town of Campāpati</def>
+<gramGrp>
+  <gram type="role">proper name</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ayal</form>
+<def>neighbourhood</def>
+<form type="sandhi"><c type="glide">y</c>ayaṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poṅku</form>
+<def>foam/bubble/expand</def>
+<gramGrp>
+  <gram type="role">verbal root as peyareccam imperfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nīr<c type="geminated">p</c></form>
+<def>water</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>parappoṭu</form>
+<def>expanse</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>porunti<c type="geminated">t</c></form>
+<def>joined/combined with</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōṉṟa</form>
+<def>appear</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>āṅk<c type="elided">u</c></form>
+<def>there</def>
+<form type="sandhi"><c type="glide">v</c>āṅki</form>
+<gramGrp>
+  <gram type="role">adverb</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉit<c type="elided">u</c></form>
+<def>sweet-it</def>
+<form type="sandhi">itiruntavaruntavamutiyōḷōṅkunīrppāvaiyaiyuvantetirkoṇṭāṅkāṇuvicumpiṉākāyakaṅkaivēṇavāttīrttaviḷakkēvāveṉappiṉṉilaimuṉiyāpperunta</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">adverb</gram>
+  <gram type="role">singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>irunta</form>
+<def>been/sat</def>
+<form type="sandhi">ivvarunta</form>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>arum</form>
+<def>difficult/rare/extreme</def>
+<form type="sandhi">amutiyōṇiṉṉālvaṇaṅkuntaṉmaiyaḷvaṇaṅkeṉappāṭalcālciṟappiṟparatattōṅkiyakōṭācceṅkōṟcōḻartaṅkulakkoṭikōṇilaitirintukōṭainīṭiṉuntāṉilaitiriyāttaṇṭam</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tava<c type="uncertain">m</c></form>
+<def>penance</def>
+<form type="sandhi">toḻutaṉaṇiṟpavat</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mutiyōḷ</form>
+<def>old/wise-she</def>
+<form type="sandhi">mūtāṭṭikaḻumiyavuvakaiyiṟkavāṟkoṇṭiruntuteyvakkaruvunticaimukakkaruvuñcemmalarmutiyōṉceytavannāḷ</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">feminine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ōṅku</form>
+<def>grow high/spread</def>
+<form type="sandhi">ōṉṟaṉakkupperuviḻāvaṟaintatumperukiyatalareṉaccitaintaneñciṟcittirāpatitāṉvayantamālaiyāṉmātavikkuraittatumaṇimēkalaitāṉmāmalarkoyyavaṇimalarppūmpoḻilakavayiṟceṉṟatumāṅkappūmpoḻilaraciḷaṅku</form>
+<gramGrp>
+  <gram type="role">verbal root as peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nīr<c type="geminated">c</c></form>
+<def>water</def>
+<form type="sandhi">neñ<c type="geminated">c</c>iṟṟuyaro</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pāvaiyai</form>
+<def>girl/doll</def>
+<form type="sandhi">pōyapiṉmaṇimēkalāteyvamvantutōṉṟiyatummaṇimēkalaiyai</form>
+<gramGrp>
+  <gram type="role">feminine singular</gram>
+  <gram type="role">accusative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>uvant<c type="elided">u</c></form>
+<def>rejoiced</def>
+<form type="sandhi"><c type="glide">v</c>attuyttatumuvavaṉamaruṅkiṉavvuraicāṟeyvatañcutamatitaṉṉaittuyileṭuppiyatūumāṅkattīvakattāyiḻainallāṭāṉṟuyiluṇarntu</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>etirkoṇṭ<c type="elided">u</c></form>
+<def>received</def>
+<form type="sandhi">ellāmpāṉmaiyiṉuṇarntatumuṇarntōṇmuṉṉaruyarteyvaṉtōṉṟimaṉaṅkavaloḻikeṉamantiraṅkoṭuttatuntīpatilakaicevvaṉantōṉṟimāperumpāttiramaṭakkoṭikkaḷittatumpāttirampeṟṟapaintoṭitāyaroṭiyāppuṟumātavattaṟavaṇarttoḻutatumaṟavaṇavaṭi</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṅk<c type="elided">u</c></form>
+<def>there</def>
+<form type="sandhi">āputtiraṉṟiṟanaṟumalarkkōtaikkunaṉkaṉamuraittatumaṅkai</form>
+<gramGrp>
+  <gram type="role">adverb</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="elided">u</c>āṇu</form>
+<def>affection</def>
+<form type="sandhi">ppāttiramāputtiraṉpāṟcintātēvikoṭuttavaṇṇamu</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vicumpiṉ</form>
+<def>sky</def>
+<form type="sandhi">vvūrpperunteruvaṭaintatumpiccaiyēṟṟapeyvaḷaikaṭiñaiyiṟpattiṉippeṇṭirpāttūṇīttatuṅkārikainallāḷkāyacaṇṭikaivayiṟṟāṉaittīkkeṭuttampalamaṭaintatumampalamaṭaintaṉaḷāyiḻaiyeṉ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ākāya</form>
+<def>sky/aether/air</def>
+<form type="sandhi">ārkkōmakaṉceṉṟatumampalamaṭaintavaraciḷaṅkumaraṉmuṉvañcaviñcaiyaṉmakaḷvaṭivākimaṟañceyvēlōṉvāṉciṟaikkōṭṭa</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṅkai</form>
+<def>River Gaṅgā</def>
+<form type="sandhi">kōṭṭamākkiyavaṇṇamuṅkāyacaṇṭikai</form>
+<gramGrp>
+  <gram type="role">proper name</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṇavā<c type="geminated">k</c></form>
+<def>intense desire</def>
+<form type="sandhi">viñcaik<c type="geminated">k</c>āñcaṉaṉāyiḻaitaṉṉaiyakalātaṇukalumvañcaviñcaiyaṉmaṉṉavaṉciṟuvaṉaimaintuṭaivāḷ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tīrtta</form>
+<def>caused to end</def>
+<form type="sandhi">tavaṇṇamumaṟaikaḻalvēntaṉāyiḻaitaṉṉaicciṟaiceykeṉṟatuñciṟaivīṭuceytatunaṟumalarkkōtaikkunallaṟamuraittāṅkāyva</form>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viḷakk<c type="elided">u</c>-ē</form>
+<def>lamp</def>
+<form type="simple">viḷakku</form>
+<form type="sandhi">vaṉṟaṉṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>vā!<c type="elided">u</c></form>
+<def>come</def>
+<form type="sandhi">vaṇarttērntupūṅkoṭikaccimāna</form>
+<gramGrp>
+  <gram type="role">imperative</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṉa<c type="geminated">o</c></form>
+<def>say</def>
+<form type="sandhi"><c type="glide">v</c>aḷk<c type="geminated">o</c>ṇṭapoyyurukkaḷaintumaṟṟavarpātamvaṇaṅkiyavaṇṇamuntavattiṟampūṇṭutarumaṅkēṭṭuppavattiṟamaṟukeṉap</form>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+</standOff>
+</TEI>
