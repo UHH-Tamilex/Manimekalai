@@ -30,17 +30,17 @@
   </teiHeader>
   <text xml:lang="ta">
     <body>
-      <div xml:id="MM0-intro">
-        <p type="edition">(katai poti pāṭṭu.)</p>
-        <p type="translation" xml:lang="en">(The canto which contains the story.)</p>
+      <div rend="parallel">
+        <p xml:id="MM0-intro">(katai poti pāṭṭu.)</p>
+        <p xml:lang="en">(The canto which contains the story.)</p>
       </div>
       <div>
         <p type="edition"/>
         <p type="translation" xml:lang="en">
         </p>
       </div>
-      <div xml:id="MM0">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="MM0">
           <l>iḷaṅkatir ñāyi ṟeḷḷun tōṟṟattu</l>
           <l>viḷaṅkoḷi mēṉi viricaṭai yāṭṭi</l>
           <l>poṉṟikaḻ neṭuvarai yuccit tōṉṟit</l>
@@ -143,7 +143,7 @@
           <l>vāṟaim pāṭṭiṉu ḷaṟiyavait taṉaṉeṉ</l>
 -->
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
           <l corresp="1">With an appearance that put the the young-rayed (i.e. rising) sun to shame, </l>
           <l corresp="2">a lady with flowing matted locks [and] with a body of shining brightness,</l>
           <l corresp="3">having appeared on the summit of the tall mountain that glitters with/like

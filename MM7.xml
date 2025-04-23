@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -13,8 +12,7 @@
           </msIdentifier>
            <msContents>
             <summary>
-              <p>7.1-14 (14 lines) <term xml:lang="ta">Maṇimēkalā Teyvam</term> goes to <term
-                  xml:lang="ta">Utayakumāraṉ</term>, who was passing a sleepless night of
+              <p>7.1-14 (14 lines) <term xml:lang="ta">Maṇimēkalā Teyvam</term> goes to <term xml:lang="ta">Utayakumāraṉ</term>, who was passing a sleepless night of
                 love-sickness after seeing <term xml:lang="ta">Maṇimēkalai</term> in the grove
                 (Canto 5) and urges him to give up his love, for the sake of good kingship.</p>
             </summary>
@@ -26,17 +24,17 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="MM7-intro">
-      <p type="edition">ēḻāvatu maṇimēkalā teyvam uvavaṉam pukuntu cutamatiyait tuyil eḻuppiyapāṭṭu.</p>
-      <p type="translation" xml:lang="en">The seventh song, in which Maṇimēkalā Teyvam, having entered the pleasure-grove, awakens Cutamati from sleep.</p>
+    <div rend="parallel">
+      <p xml:id="MM7-intro">ēḻāvatu maṇimēkalā teyvam uvavaṉam pukuntu cutamatiyait tuyil eḻuppiyapāṭṭu.</p>
+      <p xml:lang="en">The seventh song, in which Maṇimēkalā Teyvam, having entered the pleasure-grove, awakens Cutamati from sleep.</p>
     </div>
     <div>
       <p type="edition"/>
       <p type="translation" xml:lang="en"> 
       </p>
     </div>
-    <div xml:id="MM7">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="MM7">
 <l>maṇimē kalaitaṉai maṇipal lavattiṭai</l>
 <l>maṇimē kalāteyvam vaittu nīṅki</l>
 <l>maṇimē kalaitaṉai malarppoḻiṟ kaṇṭa</l>
@@ -60,7 +58,7 @@
 <l>viñcaiyiṟ peyarttuniṉ viḷaṅkiḻai taṉṉaiyōr</l>
 <l>vañcamiṉ maṇipal lavattiṭai vaittēṉ</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1-2">The deity Maṇimēkalā, having put Maṇimēkalai on [the island of] Maṇipallavam, and left, </l>
 <l corresp="7ab">[and] appeared in front of </l>
 <l corresp="3-4">Utayakumaraṉ, who had seen Maṇimēkalā in the flower grove, [deep-]felt sorrow having reached [him]/having attained [deep-]felt sorrow, </l>
