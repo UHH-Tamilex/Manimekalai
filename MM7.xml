@@ -601,7 +601,7 @@
 <def>saying</def>
 <form type="sandhi">eṉṉun</form>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
@@ -777,7 +777,7 @@
 <def>taking</def>
 <form type="sandhi">koḷḷuñ</form>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
@@ -921,7 +921,7 @@
 <form>vaḻippaṭūum</form>
 <def>putting on the path-</def>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
