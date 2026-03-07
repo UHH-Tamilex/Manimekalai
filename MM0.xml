@@ -403,6 +403,7 @@
 <def>woman</def>
 <gramGrp>
   <gram type="role">feminine singular</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -1640,8 +1641,6 @@
 <entry>
 <form><c type="glide">v</c>iru</form>
 <def>two</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>pāl</form>
@@ -1691,8 +1690,6 @@
 <entry>
 <form>oru</form>
 <def>one</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>nūṟu</form>
@@ -2387,8 +2384,6 @@
 <entry>
 <form>ōr</form>
 <def>one/unique</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>oḷi</form>
@@ -3836,8 +3831,6 @@
 <entry>
 <form>ōr</form>
 <def>one</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>uyar</form>
@@ -4381,8 +4374,6 @@
 <entry>
 <form>aim</form>
 <def>five</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>pāṭṭiṉ</form>
