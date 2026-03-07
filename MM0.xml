@@ -322,7 +322,7 @@
     </entry>
   </standOff>
   <standOff type="wordsplit" corresp="#MM0">
-<interp type="alignment" select="0">14MG19MG112ML133MR72MG57MG4MG15MR29MG8MG3MG41M2G37MG3MG19MR7ML28MG28MG37ML26ML34ML13MG31MG16MG17MG60MG19ML37MG46M2G11MG59MG8M2G2ML46MG11M2G5MG14MG24MG10MG10M2G8MG22MG10MG54M2G29MG6M2G9MR18ML36M2G6MG5MG5MG12ML31M2G43MG22M2G45MG19M2G41ML10MG7M2G35MG11MG16M2G29MR4MR30M2G50MG2ML3MG10ML22MG24M2G56M2G33MG14MG15M2G29M2G5MG26M2G21MG38MG56MG52MG6MG38MG22MG2ML27ML27MG39MG5M2G17M2GMR32MG3MG17ML2MG8M2G5MG10MG32MG10M2G12MG16MG33MGMR24MG35M2G5MG9MG40M2G35MG24MG44MG15M2G67ML15MG2MG27M,2646MG63MG325M</interp>
+<interp type="alignment" select="0">14MG19MG112ML133MR72MG57MG4MG15MR29MG8MG3MG41M2G37MG3MG19MR7ML28MG28MG37ML26ML34ML13MG31MG16MG17MG60MG19ML37MG46M2G11MG59MG8M2G2ML46MG11M2G5MG14MG24MG10MG10M2G8MG22MG10MG54M2G29MG6M2G9MR18ML36M2G6MG5MG5MG12ML31M2G43MG22M2G45MG19M2G41ML10MG7M2G35MG11MG16M2G29MR4MR30M2G50MG2ML3MG10ML22MG24M2G56M2G33MG14MG15M2G29M2G5MG26M2G21MG38MG56MG52MG6MG38MG22MG2ML27ML27MG39MG5M2G17M2GMR32MG3MG17ML2MG8M2G5MG10MG32MG10M2G12MG16MG33MGMR24MG35M2G5MG9MG40M2G35MG24MG44MG15M2G67ML15MG2MG27M,3036M</interp>
 <entry>
 <form>iḷam</form>
 <def>young</def>
@@ -1640,8 +1640,6 @@
 <entry>
 <form><c type="glide">v</c>iru</form>
 <def>two</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>pāl</form>
@@ -1691,8 +1689,6 @@
 <entry>
 <form>oru</form>
 <def>one</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>nūṟu</form>
@@ -2387,8 +2383,6 @@
 <entry>
 <form>ōr</form>
 <def>one/unique</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>oḷi</form>
@@ -3836,8 +3830,6 @@
 <entry>
 <form>ōr</form>
 <def>one</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>uyar</form>
@@ -3863,7 +3855,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>āy</form>
+<form>āy<c type="geminated">p</c></form>
 <def>been</def>
 <gramGrp>
   <gram type="role">absolutive</gram>
@@ -3872,7 +3864,7 @@
 <entry>
 <form>poṉ</form>
 <def>gold</def>
-<form type="sandhi">ppoṟ</form>
+<form type="sandhi">poṟ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -3951,16 +3943,15 @@
 <gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
 </entry>
 <entry>
-<form><c type="glide">v</c>eṉa</form>
+<form><c type="glide">v</c>eṉa<c type="geminated">c</c></form>
 <def>said</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>camaya<c type="geminated">a</c></form>
+<form>camaya<c type="geminated">k</c></form>
 <def>time/religion/creed</def>
-<form type="sandhi">ccamay<c type="geminated">a</c>k</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -4381,8 +4372,6 @@
 <entry>
 <form>aim</form>
 <def>five</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>pāṭṭiṉ</form>
