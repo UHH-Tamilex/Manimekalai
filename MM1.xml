@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="ta"><term xml:lang="en">Canto 1:</term> viḻā ~aṟai kātai </title> 
+        <title xml:lang="ta"><term xml:lang="en">Canto 1:</term> viḻāvaṟaikātai </title> 
             <title type="sub">The Canto in which the [Indra] Festival is Announced (72 lines)</title>
       </titleStmt>
       <publicationStmt>
@@ -29,7 +29,7 @@
   <text xml:lang="ta">
     <body>
       <div rend="parallel">
-        <p xml:id="MM1-intro">mutalāvatu viḻā vaṟainta pāṭṭu.</p>
+        <p xml:id="MM1-intro">mutalāvatu viḻāvaṟaintapāṭṭu.</p>
         <p xml:lang="en">The first song, in which the [Indra] Festival is announced.</p>
       </div>
       <div>
@@ -466,10 +466,10 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#MM1-intro" type="wordsplit">
-<interp type="alignment" select="0">30M,G27M2G</interp>
+<interp type="alignment" select="0">28M,27MG</interp>
 <entry>
 <form>mutalāvatu</form>
-<def>first</def>
+<def>first-it</def>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">neuter singular</gram>
