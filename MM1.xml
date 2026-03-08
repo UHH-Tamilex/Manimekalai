@@ -2,8 +2,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="ta">Patikam</title>
-        <title type="sub">Preface (98 lines) </title>
+        <title xml:lang="ta"><term xml:lang="en">Canto 1:</term> viḻā ~aṟai kātai </title> 
+            <title type="sub">The Canto in which the [Indra] Festival is Announced (72 lines)</title>
       </titleStmt>
       <publicationStmt>
         <p/>
@@ -14,9 +14,7 @@
           </msIdentifier>
           <msContents>
             <summary>
-              <p>0.1-31 (31 lines) INTRODUCTION: Aetiology of the name <term xml:lang="ta">
-                Kāvirippūmpaṭṭiṉam</term> being given to the city of <term xml:lang="ta">Campāpati</term>
-                .</p>
+              <p>1.1-10c (10 lines) The Aetiology of the Indra Festival.</p>
               <p>0.32-94 (63 lines) CHAPTER SYNOPSIS.</p>
               <p>95-98 (4 lines) CONCLUSION: The author Cāttaṉ.</p>
             </summary>
@@ -31,8 +29,8 @@
   <text xml:lang="ta">
     <body>
       <div rend="parallel">
-        <p xml:id="MM1-intro">(katai poti pāṭṭu.)</p>
-        <p xml:lang="en">(The canto which contains the story.)</p>
+        <p xml:id="MM1-intro">mutalāvatu viḻā vaṟainta pāṭṭu.</p>
+        <p xml:lang="en">The first song, in which the [Indra] Festival is announced.</p>
       </div>
       <div>
         <p type="edition"/>
@@ -465,6 +463,38 @@
 <gramGrp>
   <gram type="role">perfective aspect</gram>
   <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#MM1-intro" type="wordsplit">
+<interp type="alignment" select="0">30M,G27M2G</interp>
+<entry>
+<form>mutalāvatu</form>
+<def>first</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viḻā</form>
+<def>festival</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>aṟainta</form>
+<def>announced</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pāṭṭu</form>
+<def>song/canto</def>
+<gramGrp>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 </standOff></TEI>
