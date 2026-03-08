@@ -87,14 +87,14 @@
 <def>be high</def>
 <form type="sandhi"><c type="glide">v</c>ōṅk</form>
 <gramGrp>
-  <gram type="role">verbal root</gram>
+  <gram type="role">verbal root as peyareccam</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>uyar</form>
 <def>be high</def>
 <gramGrp>
-  <gram type="role">verbal root</gram>
+  <gram type="role">verbal root as peyareccam</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -116,14 +116,15 @@
 <def>many people</def>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
+  <gram type="role">plural</gram>
   <gram type="role">third person</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>pukaḻ</form>
-<def>extoll</def>
+<def>extol</def>
 <gramGrp>
-  <gram type="role">verbal root</gram>
+  <gram type="role">verbal root as peyareccam</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -181,7 +182,7 @@
 </entry>
 <entry>
 <form>arum</form>
-<def>difficult</def>
+<def>difficult/rare/extreme</def>
 <form type="sandhi">arun</form>
 <gramGrp>
   <gram type="role">adjective</gram>
@@ -197,7 +198,7 @@
 </entry>
 <entry>
 <form>uraippa<c type="geminated">t</c></form>
-<def>declare</def>
+<def>say/declare</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
 </gramGrp>
@@ -207,7 +208,7 @@
 <def>hang</def>
 <form type="sandhi">tūṅk</form>
 <gramGrp>
-  <gram type="role">verbal root</gram>
+  <gram type="role">verbal root as peyareccam imperfective aspect</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -244,6 +245,8 @@
 <form>cempiyaṉ</form>
 <def>Cempiyaṉ</def>
 <gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">proper name</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -251,6 +254,7 @@
 <def>celestials</def>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
+  <gram type="role">plural</gram>
   <gram type="role">third person</gram>
 </gramGrp>
 </entry>
@@ -291,7 +295,6 @@
 <gramGrp>
   <gram type="role">postposition</gram>
   <gram type="role">locative</gram>
-  <gram type="role">oblique</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -322,6 +325,8 @@
 <def>it</def>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">third person</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -337,6 +342,7 @@
 <def>above-they</def>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
+  <gram type="role">plural</gram>
   <gram type="role">third person</gram>
 </gramGrp>
 </entry>
@@ -350,6 +356,9 @@
 <entry>
 <form>viḻā<c type="geminated">k</c></form>
 <def>festival</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>kōḷ</form>
@@ -369,15 +378,10 @@
 <entry>
 <form>nāl</form>
 <def>four</def>
-<gramGrp>
-  <gram type="role">verbal root</gram>
-</gramGrp>
 </entry>
 <entry>
 <form>ēḻ</form>
 <def>seven</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>nāḷiṉ-um</form>
@@ -430,6 +434,7 @@
 <def>immortals</def>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
+  <gram type="role">plural</gram>
   <gram type="role">third person</gram>
 </gramGrp>
 </entry>
@@ -451,7 +456,7 @@
 </entry>
 <entry>
 <form>atu</form>
-<def>that</def>
+<def>that thing</def>
 <gramGrp>
   <gram type="role">neuter singular</gram>
   <gram type="role">pronoun</gram>
