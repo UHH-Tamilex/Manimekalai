@@ -25,7 +25,10 @@
                 groups resolve to perform the festival.</p>
 
                 <p>1.27-31 The drummer beats the drum of Indra to summon Yama and proclaim the festival.</p> 
-
+                <p>1.32-34 The drummer's proclamation: opening benediction</p>
+                <p>1.35-42 The drummer's proclamation: Devaloka will be emptied as all the gods throng to Kāvirippūmpaṭṭiṉam </p>
+                <p>1.43-72 The drummer's proclamation: adorn and prepare the city!</p>
+                
         
 
             </summary>
@@ -92,6 +95,17 @@
 <l>ḷinnakar pōlvatō riyalpiṉa tākip </l>
 <l>poṉṉakar vaṟitāp pōtuva reṉpatu</l>
 <l>toṉṉilai yuṇarntōr tuṇiporu ḷātaliṟ</l>
+<l>ṟōraṇa vītiyun tōmaṟu kōṭṭiyum</l>
+<l>pūraṇa kumpamum polampā likaikaḷum</l>
+<l>pāvai viḷakkum palavuṭaṉ parappumiṉ</l>
+<l>kāykkulaik kamukum vāḻaiyum vañciyum</l>
+<l>pūkkoṭi valliyuṅ karumpu naṭumiṉ</l>
+<l>patti vētikaip pacumpoṟ ṟūṇattu</l>
+<l>muttut tāma muṟaiyoṭu nāṟṟumiṉ</l>
+<l>viḻavumali mūtūr vītiyu maṉṟamum</l>
+<l>paḻamaṇaṉ māṟṟumiṉ putumaṇaṟ parappumiṉ</l>
+<l>katalikaik koṭiyuṅ kāḻūṉṟu vilōtamu</l>
+<l>matalai māṭamum vāyilum cērttumi</l>
 
         </lg>
         <lg xml:lang="en">
@@ -158,9 +172,14 @@
 <l corresp="29">wrapped in a bull hide, with a thunderous roar, </l>
 <l corresp="30">with blood-lust, summoning Yama—[and proclaims:]</l>
 
+<p>1.32-34 The drummer's proclamation: opening benediction</p>
+
 <l corresp="32">'Long live the ancient city loved by Śrī!' declared [he] in exaltation. </l>
 <l corresp="33">'May rain showers be plentiful! </l>
 <l corresp="34">May the king be the holder of the [just] sceptre by which the planets do not change position!</l>
+
+<p>1.35-42 The drummer's proclamation: Devaloka will be emptied as all the gods throng to Kāvirippūmpaṭṭiṉam </p>
+
 <l corresp="35">On the auspicious days on which the Island Propitation [Festival] is performed,</l>
 <l corresp="37ab">the four different [types] of dēva-s</l>
 <l corresp="36">who accompany the thousand-eyed one (Indra) there (i.e. to the city),</l>
@@ -171,6 +190,19 @@
 <l corresp="41">[the gods] will leave so that the Golden City (Devaloka) will be [left] empty</l>
 <l corresp="40"> just as this city was </l>
 <l corresp="39">on the day when King Karikāl Vaḷavaṉ departed—</l>
+
+<p>1.43-72 The drummer's proclamation: adorn and prepare the city!</p>
+<l corresp="43">In the streets with festoons and in the flawless/viceless assembly-halls</l>
+<l corresp="44-45">spread, many together, full water-pots, golden pots, and lamps [held by] girls/[shaped like] girls!</l>
+<l corresp="46">Set up [branches of] Areca-palm with clusters of unripe fruits, banana-trees and Mahua-trees,</l>
+<l corresp="47">flower creepers, and sugarcanes! </l>
+<l corresp="49">Hang in order garlands of pearls, </l>
+<l corresp="48">from top quality gold pillars on/with platforms in rows! </l>
+<l corresp="51">Change the old sand, spread new sand </l>
+<l corresp="50">in the squares and streets of the ancient city in which the festival flourishes!</l>
+<l corresp="53">Fix at the gates and at the corniced mansions </l>
+<l corresp="52">large flags fixed to beams, and banners [made of] plantain-trees! </l>
+
 
 
 
@@ -1993,15 +2025,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form>tuṇi</form>
-<def>come to decision</def>
-<gramGrp>
-  <gram type="role">verbal root as peyareccam</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>poruḷ</form>
-<def>matter/meaning</def>
+<form>tuṇiporuḷ</form>
+<def>conclusion/inference</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
