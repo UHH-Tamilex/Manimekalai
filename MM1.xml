@@ -94,7 +94,7 @@
   </text>
   
 <standOff corresp="#MM1" type="wordsplit">
-<interp type="alignment" select="0">16MG26MG22MG12MG21MG68MG54MGMR4MG4MG5MG21MG66MG5MG41MG31MG18MG21MG8MG5MG17MG14MG12MG6MG103MG25MG11MG43MG9MG10MG6ML11MG36MG4MG3M,793M</interp>
+<interp type="alignment" select="0">16MG26MG22MG12MG21MG68MG54MGMR4MG4MG5MG21MG66MG47MG31MG18MG21MG8MG5MG17MG14MG12MG6MG103MG25MG11MG43MG9MG10MG6ML11MG36MG4MG3M,793M</interp>
 <entry>
 <form>ulakam</form>
 <def>world</def>
@@ -414,8 +414,6 @@
 <entry>
 <form>ēḻ</form>
 <def>seven</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>nāḷiṉ-um</form>
@@ -547,7 +545,7 @@
 </entry>
 <entry>
 <form>tiṟam</form>
-<def>doctrine</def>
+<def>area/field/subject/doctrine</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -569,7 +567,7 @@
 </entry>
 <entry>
 <form>poruḷ</form>
-<def>meaning</def>
+<def>meaning/doctrinal point</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -591,12 +589,12 @@
 </gramGrp>
 </entry>
 <entry>
-<form>i<c type="geminated"/></form>
+<form>i<c type="geminated">t</c></form>
 <def>this</def>
 </entry>
 <entry>
 <form>tiṟam</form>
-<def>doctrine</def>
+<def>area/field/subject/doctrine</def>
 <form type="sandhi">tiṟan</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -608,6 +606,8 @@
 <form type="sandhi">tat</form>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -615,6 +615,8 @@
 <def>those</def>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -678,6 +680,9 @@
 <entry>
 <form><c type="glide">v</c>amaya<c type="geminated">k</c></form>
 <def>time</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>kaṇakkar-um</form>
@@ -768,6 +773,9 @@
 <entry>
 <form>pāṭai</form>
 <def>language</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>mākkaḷ-um</form>
@@ -781,8 +789,6 @@
 <entry>
 <form>aim</form>
 <def>five</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>perum</form>
@@ -804,13 +810,12 @@
 <entry>
 <form>eṇ</form>
 <def>eight</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>pēr</form>
 <def>great</def>
 <gramGrp>
+  <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -824,7 +829,7 @@
 </entry>
 <entry>
 <form>vant<c type="elided">u</c></form>
-<def>1come</def>
+<def>come</def>
 <form type="sandhi">vant</form>
 <gramGrp>
   <gram type="role">absolutive</gram>
@@ -871,6 +876,7 @@
 <form type="sandhi"><c type="geminated">ṉ</c>uṭ</form>
 <gramGrp>
   <gram type="role">postposition</gram>
+  <gram type="role">locative</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -896,9 +902,10 @@
 </entry>
 <entry>
 <form>koṟṟavaṉ</form>
-<def>victory-he(pron.n.m.sg.)/king</def>
+<def>victory-he/king</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -927,10 +934,13 @@
 <entry>
 <form>viḻā<c type="geminated">k</c></form>
 <def>festival</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>kōḷ</form>
-<def>holding</def>
+<def>holding/performing</def>
 <form type="sandhi">kōṇ</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -1020,7 +1030,7 @@
 </entry>
 <entry>
 <form>ceyt<c type="elided">u</c></form>
-<def>done</def>
+<def>made/caused</def>
 <form type="sandhi">ceyt</form>
 <gramGrp>
   <gram type="role">absolutive</gram>
@@ -1028,10 +1038,11 @@
 </entry>
 <entry>
 <form>iṭum</form>
-<def>will place</def>
+<def>it will place</def>
 <form type="sandhi">iṭun</form>
 <gramGrp>
-  <gram type="role">habitual future</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">imperfective aspect</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -1065,10 +1076,11 @@
 </entry>
 <entry>
 <form>narakarai<c type="geminated">p</c></form>
-<def>sinners/inhabitants of hell</def>
+<def>inhabitants of hell</def>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">accusative</gram>
+  <gram type="role">plural</gram>
   <gram type="role">third person</gram>
 </gramGrp>
 </entry>
@@ -1099,12 +1111,12 @@
 </entry>
 <entry>
 <form>poruntāt<c type="elided">u</c></form>
-<def>it will not be agreeable</def>
+<def>agreeable-not-it</def>
 <form type="sandhi">poruntāt</form>
 <gramGrp>
   <gram type="role">negative</gram>
   <gram type="role">singular</gram>
-  <gram type="role">third person</gram>
+  <gram type="role">participial noun</gram>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
@@ -1119,7 +1131,8 @@
 <form>iṭum</form>
 <def>it will place</def>
 <gramGrp>
-  <gram type="role">habitual future</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">imperfective aspect</gram>
 </gramGrp>
 </entry>
 <entry>
