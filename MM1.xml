@@ -173,7 +173,7 @@
   </text>
 
   <standOff corresp="#MM1" type="wordsplit">
-<interp type="alignment" select="0">16MG26MG22MG12MG21MG68MG54MGMR4MG4MG5MG21MG66MG47MG31MG18MG21MG8MG5MG17MG14MG12MG6MG103MG25MG11MG43MG9MG10MG6ML11MG36MG4MG67MG66MG5ML28MG6MG3MG9MG23ML64MG3MG15MGMR29MG37ML22MG11MG17MG47M,1236MG23M</interp>
+<interp type="alignment" select="0">16MG26MG22MG12MG21MG68MG54MGMR4MG4MG5MG21MG66MG47MG31MG18MG21MG8MG5MG17MG14MG12MG6MG103MG25MG11MG43MG9MG10MG6ML11MG36MG4MG67MG66MG5ML28MG6MG3MG9MG23ML64MG3MG15MGMR29MG37ML22MG11MG17MG47M,1260M</interp>
 <entry>
 <form>ulakam</form>
 <def>world</def>
@@ -1975,11 +1975,12 @@
 </gramGrp>
 </entry>
 <entry>
-<form>uṇarntōr</form>
+<form><c type="glide">y</c>uṇarntōr</form>
 <def>understood-they</def>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">perfective aspect</gram>
+  <gram type="role">plural</gram>
   <gram type="role">third person</gram>
 </gramGrp>
 </entry>
