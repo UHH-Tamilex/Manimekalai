@@ -25,10 +25,11 @@
                 groups resolve to perform the festival.</p>
 
                 <p>1.27-31 (5 lines) The drummer beats the drum of Indra to summon Yama and proclaim the festival.</p> 
-                <p>1.32-34 (3 lines) The drummer's proclamation: opening benediction</p>
-                <p>1.35-42 (8 lines) The drummer's proclamation: Devaloka will be emptied as all the gods throng to Kāvirippūmpaṭṭiṉam </p>
-                <p>1.43-72 (29 lines) The drummer's proclamation: adorn and prepare the city!</p>
-                
+                <p>1.32-34 (3 lines) The drummer's proclamation: opening benediction.</p>
+                <p>1.35-42 (8 lines) The drummer's proclamation: Devaloka will be emptied as all the gods throng to Kāvirippūmpaṭṭiṉam.</p>
+                <p>1.43-67 (24 lines) The drummer's proclamation: adorn and prepare the city!</p>
+                <p>1.68-72 (5 lines) The drummer's proclamation: closing benediction.</p>
+
         
 
             </summary>
@@ -120,6 +121,11 @@
 <l>taṇmaṇaṟ ṟuruttiyun tāḻpūn tuṟaikaḷun</l>
 <l>tēvaru makkaḷu mottuṭaṉ ṟiritaru</l>
 <l>nālēḻ nāḷiṉu naṉkaṟin tīreṉa</l>
+<l>voḷiṟuvāṇ maṟavarun tēru māvuṅ</l>
+<l>kaḷiṟuñ cūḻtarak kaṇmura ciyampip</l>
+<l>paciyum piṇiyum pakaiyu nīṅki</l>
+<l>vaciyum vaḷaṉuñ curakkeṉa vāḻtti</l>
+<l>yaṇiviḻā vaṟaintaṉa ṉakanakar maruṅkeṉ</l>
 
         </lg>
         <lg xml:lang="en">
@@ -186,13 +192,13 @@
 <l corresp="29">wrapped in a bull hide, with a thunderous roar, </l>
 <l corresp="30">with blood-lust, summoning Yama—[and proclaims:]</l>
 
-<p>1.32-34 The drummer's proclamation: opening benediction</p>
+<p>1.32-34 The drummer's proclamation: opening benediction.</p>
 
 <l corresp="32">'Long live the ancient city loved by Śrī!' declared [he] in exaltation. </l>
 <l corresp="33">'May rain showers be plentiful! </l>
 <l corresp="34">May the king be the holder of the [just] sceptre by which the planets do not change position!</l>
 
-<p>1.35-42 The drummer's proclamation: Devaloka will be emptied as all the gods throng to Kāvirippūmpaṭṭiṉam </p>
+<p>1.35-42 The drummer's proclamation: Devaloka will be emptied as all the gods throng to Kāvirippūmpaṭṭiṉam. </p>
 
 <l corresp="35">On the auspicious days on which the Island Propitation [Festival] is performed,</l>
 <l corresp="37ab">the four different [types] of dēva-s</l>
@@ -205,7 +211,7 @@
 <l corresp="40"> just as this city was </l>
 <l corresp="39">on the day when King Karikāl Vaḷavaṉ departed—</l>
 
-<p>1.43-72 The drummer's proclamation: adorn and prepare the city!</p>
+<p>1.43-67 The drummer's proclamation: adorn and prepare the city!</p>
 <l corresp="43">In the streets with festoons and in the flawless/viceless assembly-halls</l>
 <l corresp="44-45">spread, many together, full water-pots, golden pots, and lamps [held by] girls/[shaped like] girls!</l>
 <l corresp="46">Set up [branches of] Areca-palm with clusters of unripe fruits, banana-trees and Mahua-trees,</l>
@@ -231,6 +237,15 @@
 <l corresp="64">on the white sand dunes and in the groves with opening flowers, </l>
 <l corresp="65">on the islets of cool sand and by the splendid low-lying/deep ghats!' thus proclaimed [the drummer.]</l>
 
+<p>1.68-72 The drummer's proclamation: closing benediction.</p>
+
+<l corresp="68">While warriors with shining swords, chariots, horses </l>
+<l corresp="69">and male elephants surrounded [him], the drum with an eye beating, </l>
+<l corresp="70">[he] uttered the following benediction: 'Banishing hunger, disease and emnity, </l>
+<l corresp="71">may rain and prosperity increase!' </l>
+<l corresp="72">Thus he (the drummer), [standing] in the inner city, proclaimed the splendid festival. </l>
+
+
 
 
 
@@ -253,7 +268,7 @@
   </text>
 
   <standOff corresp="#MM1" type="wordsplit">
-<interp type="alignment" select="0">16MG26MG22MG12MG21MG68MG54MGMR4MG4MG5MG21MG66MG47MG31MG18MG21MG8MG5MG17MG14MG12MG6MG103MG25MG11MG43MG9MG10MG6ML11MG36MG4MG67MG66MG5ML28MG6MG3MG9MG23ML64MG3MG15MGMR29MG37ML22MG11MG17MG57MG14MG15MG17MG13M2G36M2G7MG8MG15MG9M2GMR25MG21ML29MG6MG3ML5MG52MG17MG2ML11MG7MG11ML15MG40MG38MG39MG16MG48MG35MG5MG17ML19MG7MG8MG22MG14MG18MG17MG7MG2ML5MG5MG12MR10MGMR4MG10M,2058M</interp>
+<interp type="alignment" select="0">16MG26MG22MG12MG21MG68MG54MGMR4MG4MG5MG21MG66MG47MG31MG18MG21MG8MG5MG17MG14MG12MG6MG103MG25MG11MG43MG9MG10MG6ML11MG36MG4MG67MG66MG5ML28MG6MG3MG9MG23ML64MG3MG15MGMR29MG37ML22MG11MG17MG57MG14MG15MG17MG13M2G36M2G7MG8MG15MG9M2GMR25MG21ML29MG6MG3ML5MG52MG17MG2ML11MG7MG11ML15MG40MG38MG39MG16MG48MG35MG5MG17ML19MG7MG8MG22MG14MG18MG17MG7MG2ML5MG5MG12MR10MGMR4MG26MG5MG2MLMG8M2G18MG11MG7MG8MG2MR9MG8MG8MG31MR11MG2M,2221M</interp>
 <entry>
 <form>ulakam</form>
 <def>world</def>
@@ -573,8 +588,6 @@
 <entry>
 <form>ēḻ</form>
 <def>seven</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>nāḷiṉ-um</form>
@@ -955,8 +968,6 @@
 <entry>
 <form>aim</form>
 <def>five</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>perum</form>
@@ -978,8 +989,6 @@
 <entry>
 <form>eṇ</form>
 <def>eight</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>pēr</form>
@@ -1969,8 +1978,6 @@
 <entry>
 <form>ōr</form>
 <def>one</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>iyalpiṉat<c type="elided">u</c></form>
@@ -3073,8 +3080,6 @@
 <entry>
 <form>ēḻ</form>
 <def>seven</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>nāḷiṉ-um</form>
@@ -3108,6 +3113,225 @@
 <def>say</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>oḷiṟu</form>
+<def>shine</def>
+<gramGrp>
+  <gram type="role">verbal root as peyareccam imperfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāḷ</form>
+<def>sword</def>
+<form type="sandhi">vāṇ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṟavar-um</form>
+<def>warrior</def>
+<form type="simple">maṟavar</form>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>tēr-um</form>
+<def>chariot</def>
+<form type="simple">tēr</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>mā-<c type="glide">v</c>um</form>
+<def>horse</def>
+<form type="simple">mā</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>kaḷiṟ<c type="elided">u</c>-um</form>
+<def>male elephant</def>
+<form type="simple">kaḷiṟu</form>
+<form type="sandhi">kaḷiṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>cūḻ</form>
+<def>surround</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tara<c type="geminated">k</c></form>
+<def>give</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>eye</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>murac<c type="elided">u</c></form>
+<def>drum</def>
+<form type="sandhi">murac</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iyampi<c type="geminated">p</c></form>
+<def>sounded</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paci-<c type="glide">y</c>um</form>
+<def>hunger</def>
+<form type="simple">paci</form>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>piṇi-<c type="glide">y</c>um</form>
+<def>disease</def>
+<form type="simple">piṇi</form>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>pakai-<c type="glide">y</c>um</form>
+<def>emnity</def>
+<form type="simple">pakai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>nīṅki</form>
+<def>abandoned</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaci-<c type="glide">y</c>um</form>
+<def>rain</def>
+<form type="simple">vaci</form>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>vaḷaṉ-um</form>
+<def>prosperity</def>
+<form type="simple">vaḷaṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>curakk<c type="uncertain">a</c></form>
+<def>may it increase</def>
+<form type="sandhi">curakk</form>
+<gramGrp>
+  <gram type="role">optative</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉa</form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāḻtti</form>
+<def>praised</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>aṇi</form>
+<def>adorn</def>
+<gramGrp>
+  <gram type="role">verbal root as peyareccam imperfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viḻā</form>
+<def>festival</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>aṟaintaṉaṉ</form>
+<def>he announced</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>akam</form>
+<def>inside</def>
+<form type="sandhi">akan</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nakar</form>
+<def>city</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maruṅk<c type="elided">u</c></form>
+<def>in</def>
+<form type="sandhi">maruṅk</form>
+<gramGrp>
+  <gram type="role">postposition</gram>
+  <gram type="role">locative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉ</form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 </standOff>
