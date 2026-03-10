@@ -110,6 +110,10 @@
 <l>pativāḻ catukkattut teyva mīṟāka</l>
 <l>vēṟuvēṟu ciṟappiṉ vēṟuvēṟu ceyviṉai</l>
 <l>yāṟaṟi marapi ṉaṟintōr ceyyumiṉ</l>
+<l>ṟaṇmaṇaṟ pantarun tāḻtaru potiyilum</l>
+<l>puṇṇiya nallurai yaṟivīr poruntumi</l>
+<l>ṉoṭṭiya camayat tuṟuporuḷ vātikaḷ</l>
+<l>paṭṭi maṇṭapattup pāṅkaṟin tēṟumiṉ</l>
 
         </lg>
         <lg xml:lang="en">
@@ -210,6 +214,11 @@
 <l corresp="56">the various different rituals [for the gods] which must be performed with various different special powers—</l>
 <l corresp="54">starting with the lord with the unblinking eye on his forehead (Śiva), </l>
 <l corresp="55">and ending with the deities of the crossroads who dwell in the city! </l>
+<l corresp="59">O you who know the good, sacred scriptures/commentaries on virtue, approach </l>
+<l corresp="58">the awnings [spread with] cool sand, and the public-halls which provide [places] to stay!</l>
+<l corresp="60">O debaters of the tenets in rivalling doctrines, </l>
+<l corresp="61">ascend tothe paṭṭi assembly hall, knowing [your] places! </l>
+
 
 
 
@@ -231,7 +240,7 @@
   </text>
 
   <standOff corresp="#MM1" type="wordsplit">
-<interp type="alignment" select="0">16MG26MG22MG12MG21MG68MG54MGMR4MG4MG5MG21MG66MG47MG31MG18MG21MG8MG5MG17MG14MG12MG6MG103MG25MG11MG43MG9MG10MG6ML11MG36MG4MG67MG66MG5ML28MG6MG3MG9MG23ML64MG3MG15MGMR29MG37ML22MG11MG17MG57MG14MG15MG17MG13M2G36M2G7MG8MG15MG9M2GMR25MG21ML29MG6MG3ML5MG52MG17MG2ML11MG7MG11ML15MG40MG38MG25M,1741M</interp>
+<interp type="alignment" select="0">16MG26MG22MG12MG21MG68MG54MGMR4MG4MG5MG21MG66MG47MG31MG18MG21MG8MG5MG17MG14MG12MG6MG103MG25MG11MG43MG9MG10MG6ML11MG36MG4MG67MG66MG5ML28MG6MG3MG9MG23ML64MG3MG15MGMR29MG37ML22MG11MG17MG57MG14MG15MG17MG13M2G36M2G7MG8MG15MG9M2GMR25MG21ML29MG6MG3ML5MG52MG17MG2ML11MG7MG11ML15MG40MG38MG39MG16MG48MG35MG5MG6M,1870M</interp>
 <entry>
 <form>ulakam</form>
 <def>world</def>
@@ -551,8 +560,6 @@
 <entry>
 <form>ēḻ</form>
 <def>seven</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>nāḷiṉ-um</form>
@@ -933,8 +940,6 @@
 <entry>
 <form>aim</form>
 <def>five</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>perum</form>
@@ -956,8 +961,6 @@
 <entry>
 <form>eṇ</form>
 <def>eight</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>pēr</form>
@@ -1947,8 +1950,6 @@
 <entry>
 <form>ōr</form>
 <def>one</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>iyalpiṉat<c type="elided">u</c></form>
@@ -2651,6 +2652,171 @@
 <gramGrp>
   <gram type="role">imperative</gram>
   <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṇ</form>
+<def>cool</def>
+<form type="sandhi">ṟaṇ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṇal</form>
+<def>sand</def>
+<form type="sandhi">maṇaṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pantar-um</form>
+<def>awning</def>
+<form type="simple">pantar</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>tāḻ</form>
+<def>rest/wait</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taru</form>
+<def>give</def>
+<gramGrp>
+  <gram type="role">verbal root as peyareccam imperfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>potiyil-um</form>
+<def>public-hall</def>
+<form type="simple">potiyil</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>puṇṇiya</form>
+<def>virtue/merit</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nal</form>
+<def>good</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">l</c>urai</form>
+<def>commentary/treatise/text</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>aṟivīr</form>
+<def>know-you</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">imperfective aspect</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poruntumiṉ</form>
+<def>approach</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oṭṭiya</form>
+<def>attacked</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>camayatt<c type="elided">u</c></form>
+<def>religion/doctrine/sect</def>
+<form type="sandhi">camayatt</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṟu</form>
+<def>be</def>
+<gramGrp>
+  <gram type="role">verbal root as peyareccam imperfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poruḷ</form>
+<def>meaning/tenet/doctrinal point</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vātikaḷ</form>
+<def>advocate/debater</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṭṭi</form>
+<def>cow-shed/sheep-fold</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṇṭapattu<c type="geminated">p</c></form>
+<def>assembly-hall</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pāṅk<c type="elided">u</c></form>
+<def>place</def>
+<form type="sandhi">pāṅk</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṟint<c type="elided">u</c></form>
+<def>known</def>
+<form type="sandhi">aṟint</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ēṟumiṉ</form>
+<def>ascend</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+  <gram type="role">plural</gram>
   <gram type="role">second person</gram>
 </gramGrp>
 </entry>
