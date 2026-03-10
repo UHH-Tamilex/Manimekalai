@@ -206,6 +206,12 @@
 <l corresp="50">in the squares and streets of the very ancient city in which the festival flourishes!</l>
 <l corresp="53">Fix at the gates and at the corniced mansions </l>
 <l corresp="52">large flags fixed to beams, and banners [made of] plantain-trees! </l>
+<l corresp="57">O [you] who know the tradition which is has six paths! Perform </l>
+<l corresp="56">the various different rituals [for the gods] which must be performed with various different special powers—</l>
+<l corresp="54">starting with the lord with the unblinking eye on his forehead (Śiva), </l>
+<l corresp="55">and ending with the deities of the crossroads who dwell in the city! </l>
+
+
 
 
 
@@ -225,7 +231,7 @@
   </text>
 
   <standOff corresp="#MM1" type="wordsplit">
-<interp type="alignment" select="0">16MG26MG22MG12MG21MG68MG54MGMR4MG4MG5MG21MG66MG47MG31MG18MG21MG8MG5MG17MG14MG12MG6MG103MG25MG11MG43MG9MG10MG6ML11MG36MG4MG67MG66MG5ML28MG6MG3MG9MG23ML64MG3MG15MGMR29MG37ML22MG11MG17MG57MG14MG15MG17MG13M2G36M2G7MG8MG15MG9M2GMR25MG21ML29MG6MG3ML5MG52MG17MG2ML11MG7MG10MG,1619M</interp>
+<interp type="alignment" select="0">16MG26MG22MG12MG21MG68MG54MGMR4MG4MG5MG21MG66MG47MG31MG18MG21MG8MG5MG17MG14MG12MG6MG103MG25MG11MG43MG9MG10MG6ML11MG36MG4MG67MG66MG5ML28MG6MG3MG9MG23ML64MG3MG15MGMR29MG37ML22MG11MG17MG57MG14MG15MG17MG13M2G36M2G7MG8MG15MG9M2GMR25MG21ML29MG6MG3ML5MG52MG17MG2ML11MG7MG11ML15MG40MG38MG25M,1741M</interp>
 <entry>
 <form>ulakam</form>
 <def>world</def>
@@ -2464,10 +2470,187 @@
 <entry>
 <form>cērttumiṉ</form>
 <def>make join</def>
-<form type="sandhi">cērttumi</form>
 <gramGrp>
   <gram type="role">imperative</gram>
   <gram type="role">plural</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nutal</form>
+<def>forehead</def>
+<form type="sandhi">ṉutal</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viḻi</form>
+<def>be open</def>
+<gramGrp>
+  <gram type="role">verbal root as peyareccam imperfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nāṭṭatt<c type="elided">u</c></form>
+<def>eye</def>
+<form type="sandhi">nāṭṭatt</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṟaiyōṉ</form>
+<def>lord</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mutal</form>
+<def>first</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ā<c type="geminated">p</c></form>
+<def>be</def>
+<gramGrp>
+  <gram type="role">verbal root as infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pati</form>
+<def>city</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāḻ</form>
+<def>live</def>
+<gramGrp>
+  <gram type="role">verbal root as peyareccam imperfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>catukkattu<c type="geminated">t</c></form>
+<def>junction where four roads meet</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>teyvam</form>
+<def>deity</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>īṟ<c type="elided">u</c></form>
+<def>end</def>
+<form type="sandhi">īṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āka</form>
+<def>be</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṟu</form>
+<def>different</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṟu</form>
+<def>different</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṟappiṉ</form>
+<def>excellence</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṟu</form>
+<def>different</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṟu</form>
+<def>different</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cey</form>
+<def>do</def>
+<gramGrp>
+  <gram type="role">verbal root as gerundive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viṉai</form>
+<def>action/rite</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>āṟ<c type="elided">u</c></form>
+<def>six</def>
+<form type="sandhi"><c type="glide">y</c>āṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṟi</form>
+<def>way</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>marapiṉ</form>
+<def>tradition</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṟintōr</form>
+<def>know-they</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceyyumiṉ</form>
+<def>do</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+  <gram type="role">singular</gram>
   <gram type="role">second person</gram>
 </gramGrp>
 </entry>
