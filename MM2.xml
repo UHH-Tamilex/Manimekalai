@@ -122,7 +122,9 @@
           <l>kaṇṇī rāṭiya katiriḷa vaṉamulai</l>
           <l>tiṇṇitiṟ ṟirukit tīyaḻaṟ pottik</l>
           <l>kāvalaṉ pērūr kaṉaiyeri yūṭṭiya</l>
-          <l>māperum pattiṉi</l>
+          <l>māperum pattiṉi makaṇmaṇi mēkalai</l>
+          <l>yaruntavap paṭutta lalla tiyāvatun</l>
+          <l>tiruntāc ceykait tīttoḻiṟ paṭāa</l>
 
         </lg>
         <lg xml:lang="en">
@@ -202,13 +204,21 @@
             this birth]. </l>
           <l corresp="49"> But our lady of choice jewels (Kaṇṇaki) was not a woman of that kind. </l>
           <l corresp="55ab"> Most chaste of women—</l>
-          <l corresp="50"> unable to bear the bitter tragedy suffered by [her] husband/for the sake of [her]
+          <l corresp="50"> unable to bear the bitter tragedy suffered by [her] husband/for the sake
+            of [her]
             husband,</l>
-          <l corresp="51"> [she undid her hair] so that [her] thick fragrant locks streamed down to the base of her
+          <l corresp="51"> [she undid her hair] so that [her] thick fragrant locks streamed down to
+            the base of her
             spine, </l>
-          <l corresp="52, 53ab"> forcibly twisted off [her] shining, young, beautiful breast bathed in tears,</l>
+          <l corresp="52, 53ab"> forcibly twisted off [her] shining, young, beautiful breast bathed
+            in tears,</l>
           <l corresp="53cd">kindled firey flames, </l>
-          <l corresp="54">and fed the great city of the (Pāṇṭiyaṉ) King to the blazing conflagration.</l>
+          <l corresp="54">and fed the great city of the (Pāṇṭiyaṉ) King to the blazing
+            conflagration.</l>
+          <l corresp="55cd">[But her] daughter Maṇimēkalai</l>
+          <l corresp="56abc"> [shall suffer] nothing but the practice of arduous penance.</l>
+          <l corresp="56d, 57"> She shall not suffer the sinful profession with its less than ideal acts (i.e. the courtesan
+            profession) at all. </l>
 
 
         </lg>
@@ -265,7 +275,7 @@
   </standOff>
   <standOff corresp="#MM2" type="wordsplit">
     <interp type="alignment" select="0">
-      47MG112MG11MG19ML23MG34MG20MG3ML13MG77MG3MG49MG16ML28MG10MG3MG4MG23MG15M2G6M2G6M2G7M2G6MG12MG13MG17MG14MG16M2G2ML12MG17MG11MG12MG11MG7MG14MG10MG7MG15MG9MG10M2G16MG3ML17MG12MG14M2G14MG17M2GMR6MR53MG59MG3M2G6MG5MG25MG12MG17MG14MG83M2G11MG76MG18MG5MG7MG19ML15ML39MG22MG5MG36MG10MG24MG24MR47MG4MR75M,1644M</interp>
+      47MG112MG11MG19ML23MG34MG20MG3ML13MG77MG3MG49MG16ML28MG10MG3MG4MG23MG15M2G6M2G6M2G7M2G6MG12MG13MG17MG14MG16M2G2ML12MG17MG11MG12MG11MG7MG14MG10MG7MG15MG9MG10M2G16MG3ML17MG12MG14M2G14MG17M2GMR6MR53MG59MG3M2G6MG5MG25MG12MG17MG14MG83M2G11MG76MG18MG5MG7MG19ML15ML39MG22MG5MG36MG10MG24MG24MR47MG4MR114MG6M2G30MG,1723M</interp>
     <entry>
       <form>nāval</form>
       <def>Jaumoon plum tree</def>
@@ -2518,6 +2528,106 @@
       <gramGrp>
         <gram type="role">feminine</gram>
         <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>makaḷ</form>
+      <def>daughter</def>
+      <form type="sandhi">makaṇ</form>
+      <gramGrp>
+        <gram type="role">feminine</gram>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>maṇimēkalai</form>
+      <def>Maṇimēkalai</def>
+      <gramGrp>
+        <gram type="role">proper name</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><c type="glide">y</c>arum</form>
+      <def>difficult</def>
+      <form type="sandhi"><c type="glide">y</c>arun</form>
+      <gramGrp>
+        <gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>tava<c type="geminated">p</c></form>
+      <def>penance</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>paṭuttal</form>
+      <def>performing</def>
+      <gramGrp>
+        <gram type="role">verbal noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>allat<c type="elided">u</c></form>
+      <def>other than</def>
+      <form type="sandhi">allat</form>
+      <gramGrp>
+        <gram type="role">postposition</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><c type="inserted">i</c>yāvat<c type="elided">u</c>-um</form>
+      <def>even a little/at all</def>
+      <form type="simple">yāvatu</form>
+      <form type="sandhi"><c type="inserted">i</c>yāvat</form>
+      <gramGrp>
+        <gram type="role">pronominalised noun</gram>
+        <gram type="role">adverb</gram>
+        <gram type="role">singular</gram>
+      </gramGrp>
+      <gramGrp type="particle">
+        <m type="enclitic">um</m>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>tiruntā<c type="geminated">c</c></form>
+      <def>be perfect-not</def>
+      <gramGrp>
+        <gram type="role">negative</gram>
+        <gram type="role">peyareccam</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>ceykai<c type="geminated">t</c></form>
+      <def>activity</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>tī<c type="geminated">t</c></form>
+      <def>evil</def>
+      <gramGrp>
+        <gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>toḻil</form>
+      <def>job</def>
+      <form type="sandhi">toḻiṟ</form>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>paṭāaḷ</form>
+      <def>experience-not-she</def>
+      <form type="sandhi">paṭāa</form>
+      <gramGrp>
+        <gram type="role">participial noun</gram>
+        <gram type="role">feminine singular</gram>
+        <gram type="role">negative</gram>
       </gramGrp>
     </entry>
   </standOff>
