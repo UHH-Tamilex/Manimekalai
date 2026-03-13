@@ -109,6 +109,14 @@
           <l>pōtal ceyyā vuyiroṭu niṉṟē</l>
           <l>poṟkoṭi mūtūrp poruḷurai yiḻantu</l>
           <l>naṟṟoṭi naṅkāy nāṇut tuṟantēṉ</l>
+          <l> kātala riṟappiṟ kaṉaiyeri potti</l>
+          <l>yūtulaik kuruki ṉuyirttakat taṭaṅkā</l>
+          <l>tiṉṉuyi rīva rīyā rāyi</l>
+          <l>ṉaṉṉīrp poykaiyi ṉaḷiyeri pukuvar</l>
+          <l>naḷiyeri pukāa rāyi ṉaṉparō</l>
+          <l>ṭuṭaṉuṟai vāḻkkaikku nōṟṟuṭam paṭuvar</l>
+          <l>pattiṉip peṇṭir parappunīr ñālat</l>
+
         </lg>
         <lg xml:lang="en">
 
@@ -166,9 +174,22 @@
           <l corresp="37">To Vayantamālai, Mātavi replies: </l>
           <l corresp="38">'When I heard about the cruel tragedy which [my] lover [Kōvalaṉ] suffered, </l>
           <l corresp="39">I remained [alive], with a life that would not depart, </l>
-          <l corresp="40">[but] I lost [my] reputation in the ancient city of gold banners/ [my] reputation
+          <l corresp="40">[but] I lost [my] reputation in the ancient city of gold banners/ [my]
+            reputation
             as a golden creeper (i.e. as a successful woman) in the ancient city— </l>
-          <l corresp="41">o lady with good bangles!—[so] I renounced [my] shame. </l>
+          <l corresp="41">o lady with good bangles!—and I renounced [my] shame. </l>
+          <l corresp="48"> Chaste women in this world of wide waters</l>
+            <l corresp="42ab">—if the men [they] love pass away [before them]—</l>
+          <l corresp="42cd"> kindle a raging fire [of grief in their hearts],</l>  
+            <l corresp="43ab"> breathe hard like the nozzle-hole of the blowing smith's forge, </l>
+          <l corresp="43cd"> and find no inner peace,</l>
+            <l corresp="44ab"> until they renounce [their] sweet lives. </l>
+          <l corresp="44cd">If they do not renounce,</l>
+          <l corresp="45">they enter [instead] the blazing fire, as if into a pond of good (i.e. deep) water. </l>
+          <l corresp="46abc"> If they do not enter the blazing fire, </l>
+          <l corresp="46d-47">they ravage [their] bodies by doing penance for the sake of a life lived together with
+            [their] lovers [in the next birth]/ for the sake of the life [they] lived together with [their] lovers [in
+            this birth]. </l>
 
 
         </lg>
@@ -225,7 +246,7 @@
   </standOff>
   <standOff corresp="#MM2" type="wordsplit">
     <interp type="alignment" select="0">
-      47MG112MG11MG19ML23MG34MG20MG3ML13MG77MG3MG49MG16ML28MG10MG3MG4MG23MG15M2G6M2G6M2G7M2G6MG12MG13MG17MG14MG16M2G2ML12MG17MG11MG12MG11MG7MG14MG10MG7MG15MG9MG10M2G16MG3ML17MG12MG14M2G14MG17M2GMR6MR53MG59MG3M2G6MG5MG25MG12MG17MG14MG83M2G11MG45M,1248M</interp>
+      47MG112MG11MG19ML23MG34MG20MG3ML13MG77MG3MG49MG16ML28MG10MG3MG4MG23MG15M2G6M2G6M2G7M2G6MG12MG13MG17MG14MG16M2G2ML12MG17MG11MG12MG11MG7MG14MG10MG7MG15MG9MG10M2G16MG3ML17MG12MG14M2G14MG17M2GMR6MR53MG59MG3M2G6MG5MG25MG12MG17MG14MG83M2G11MG76MG18MG5MG7MG19ML15ML39MG22MG5MG35M2G,1455M</interp>
     <entry>
       <form>nāval</form>
       <def>Jaumoon plum tree</def>
@@ -1891,6 +1912,308 @@
         <gram type="role">perfective aspect</gram>
         <gram type="role">singular</gram>
         <gram type="role">first person</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>kātalar</form>
+      <def>lover</def>
+      <gramGrp>
+        <gram type="role">pronominalised noun</gram>
+        <gram type="role">plural</gram>
+        <gram type="role">third person</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>iṟappiṉ</form>
+      <def>pass away-if</def>
+      <form type="sandhi">iṟappiṟ</form>
+      <gramGrp>
+        <gram type="role">conditional</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>kaṉai</form>
+      <def>be intense</def>
+      <gramGrp>
+        <gram type="role">verbal root as peyareccam imperfective aspect</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><c type="glide">y</c>eri</form>
+      <def>flame</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>potti</form>
+      <def>kindled</def>
+      <gramGrp>
+        <gram type="role">absolutive</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><c type="glide">y</c>ūt<c type="elided">u</c></form>
+      <def>blow</def>
+      <form type="sandhi"><c type="glide">y</c>ūt</form>
+      <gramGrp>
+        <gram type="role">verbal root as peyareccam imperfective aspect</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>ulai<c type="geminated">k</c></form>
+      <def>smith's forge</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>kurukiṉ</form>
+      <def>hole in centre of forge for nozzle of bellows</def>
+      <gramGrp>
+        <gram type="role">comparative</gram>
+        <gram type="role">oblique</gram>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>uyirtt<c type="elided">u</c></form>
+      <def>breathed hard</def>
+      <form type="sandhi">uyirtt</form>
+      <gramGrp>
+        <gram type="role">absolutive</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>akatt<c type="elided">u</c></form>
+      <def>inside</def>
+      <form type="sandhi">akatt</form>
+      <gramGrp>
+        <gram type="role">oblique</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>aṭaṅkāt<c type="elided">u</c></form>
+      <def>yielded/become subdued-not</def>
+      <form type="sandhi">aṭaṅkāt</form>
+      <gramGrp>
+        <gram type="role">absolutive</gram>
+        <gram type="role">negative</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>iṉ</form>
+      <def>sweet</def>
+      <gramGrp>
+        <gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><c type="geminated">ṉ</c>uyir</form>
+      <def>life</def>
+      <gramGrp>
+        <gram type="role">root noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>īvar</form>
+      <def>they give</def>
+      <gramGrp>
+        <gram type="role">imperfective aspect</gram>
+        <gram type="role">plural</gram>
+        <gram type="role">third person</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>īyār</form>
+      <def>give-not-they</def>
+      <gramGrp>
+        <gram type="role">negative</gram>
+        <gram type="role">plural</gram>
+        <gram type="role">third person</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>āyiṉ</form>
+      <def>if</def>
+      <gramGrp>
+        <gram type="role">conditional</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>nal</form>
+      <def>good</def>
+      <form type="sandhi">ṉaṉ</form>
+      <gramGrp>
+        <gram type="role">adjective</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>nīr<c type="geminated">p</c></form>
+      <def>water</def>
+      <form type="sandhi">ṉīr<c type="geminated">p</c></form>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>poykaiyiṉ</form>
+      <def>pond</def>
+      <gramGrp>
+        <gram type="role">comparative</gram>
+        <gram type="role">oblique</gram>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>naḷi</form>
+      <def>denseness</def>
+      <form type="sandhi">ṉaḷi</form>
+      <gramGrp>
+        <gram type="role">root noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><c type="glide">y</c>eri</form>
+      <def>flame</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>pukuvar</form>
+      <def>they enter</def>
+      <gramGrp>
+        <gram type="role">imperfective aspect</gram>
+        <gram type="role">plural</gram>
+        <gram type="role">third person</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>naḷi</form>
+      <def>denseness</def>
+      <gramGrp>
+        <gram type="role">root noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><c type="glide">y</c>eri</form>
+      <def>flame</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>pukāar</form>
+      <def>enter-not-they</def>
+      <gramGrp>
+        <gram type="role">negative</gram>
+        <gram type="role">plural</gram>
+        <gram type="role">third person</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>āyiṉ</form>
+      <def>if</def>
+      <gramGrp>
+        <gram type="role">conditional</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>aṉparōṭ<c type="elided">u</c></form>
+      <def>lover</def>
+      <form type="sandhi">aṉparōṭ</form>
+      <gramGrp>
+        <gram type="role">pronominalised noun</gram>
+        <gram type="role">sociative</gram>
+        <gram type="role">plural</gram>
+        <gram type="role">third person</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>uṭaṉ</form>
+      <def>together</def>
+      <gramGrp>
+        <gram type="role">adverb</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>uṟai</form>
+      <def>dwell</def>
+      <gramGrp>
+        <gram type="role">verbal root as peyareccam</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>vāḻkkaikku</form>
+      <def>life</def>
+      <gramGrp>
+        <gram type="role">dative</gram>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>nōṟṟ<c type="elided">u</c></form>
+      <def>done penance</def>
+      <form type="sandhi">nōṟṟ</form>
+      <gramGrp>
+        <gram type="role">absolutive</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>uṭamp<c type="elided">u</c></form>
+      <def>body</def>
+      <form type="sandhi">uṭamp</form>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>aṭuvar</form>
+      <def>they pound/subdue</def>
+      <gramGrp>
+        <gram type="role">imperfective aspect</gram>
+        <gram type="role">plural</gram>
+        <gram type="role">third person</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>pattiṉi<c type="geminated">p</c></form>
+      <def>chaste/ virtuous wife</def>
+      <gramGrp>
+        <gram type="role">feminine</gram>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>peṇṭir</form>
+      <def>women</def>
+      <gramGrp>
+        <gram type="role">plural</gram>
+        <gram type="role">third person</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>parappu</form>
+      <def>expanse</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>nīr</form>
+      <def>water</def>
+      <gramGrp>
+        <gram type="role">noun</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>ñālatt<c type="elided">u</c></form>
+      <def>world</def>
+      <form type="sandhi">ñālat</form>
+      <gramGrp>
+        <gram type="role">oblique</gram>
+        <gram type="role">noun</gram>
       </gramGrp>
     </entry>
   </standOff>
