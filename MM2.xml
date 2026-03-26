@@ -136,6 +136,12 @@
           <l>taṟṟō ruṟuva taṟikeṉ ṟaruḷi</l>
           <l>yaivakaic cīlat tamaitiyuṅ kāṭṭi</l>
           <l>yuyvakai yivaikoḷeṉ ṟuravō ṉaruḷiṉaṉ</l>
+          <l> maittaṭaṅ kaṇṇār tamakkumeṟ payanta</l>
+          <l>cittirā patikkuñ ceppu nīyeṉa</l>
+          <l>vāṅkava ḷuraikēṭ ṭarumpeṟaṉ māmaṇi</l>
+          <l>yōṅkutiraip peruṅkaṭal vīḻttōr pōṉṟu</l>
+          <l>maiya ṉeñcamoṭu vayanta mālaiyuṅ</l>
+          <l>kaiyaṟṟup peyarntaṉaḷ kārikai tiṟatteṉ</l>
 
         </lg>
         <lg xml:lang="en">
@@ -236,18 +242,19 @@
           <l corresp="61">and fell at the feet of the sage Aṟavaṇaṉ,</l>
           <l corresp="60">whose wisdom is free from flaws and who has renounced vice.</l>
           <l corresp="62">Suffering very much and confused at heart, </l>
-          <l corresp="63">[I] told [Aṟavaṇaṉ] about the the cruel tragedy suffered by [my] husband/for the sake
+          <l corresp="63">[I] told [Aṟavaṇaṉ] about the the cruel tragedy suffered by [my]
+            husband/for the sake
             of [my] husband.</l>
           <l corresp="67cd"> [He] graced [me] by saying:</l>
           <l corresp="64">'Those who are born experience great grief; </l>
           <l corresp="65">those who are not born experience very great bliss. </l>
           <l corresp="66">The former comes from attachment; </l>
-          <l corresp="67ab">the latter is experienced by those who detach. May [you] know [this truth]!' </l>
-          <l corresp="68">Demonstrating [to me] the peace [to be obtained by practising] the five types of sīla, </l>
+          <l corresp="67ab">the latter is experienced by those who detach. May [you] know [this
+            truth]!' </l>
+          <l corresp="68">Demonstrating [to me] the peace [to be obtained by practising] the five
+            types of sīla, </l>
           <l corresp="69cd">the (mentally) strong man graced [me] by concluding: </l>
           <l corresp="69ab">'Understand these means of liberation!' </l>
-          
-         
 
 
         </lg>
@@ -303,7 +310,7 @@
     </entry>
   </standOff>
   <standOff corresp="#MM2" type="wordsplit">
-<interp type="alignment" select="0">47MG112MG11MG19ML23MG34MG20MG3ML13MG77MG3MG49MG16ML28MG10MG3MG4MG23MG15M2G6M2G6M2G7M2G6MG12MG13MG17MG14MG16M2G2ML12MG17MG11MG12MG11MG7MG14MG10MG7MG15MG9MG10M2G16MG3ML17MG12MG14M2G14MG17M2GMR6MR53MG59MG3M2G6MG5MG25MG12MG17MG14MG83M2G11MG76MG18MG5MG7MG19ML15ML39MG22MG5MG36MG10MG24MG24MR47MG4MR114MG6M2G59MG14MG20MR8MG54MG4ML116MG11MG4MG3MG8MG12MG6MG27MG14M,2066M</interp>
+<interp type="alignment" select="0">47MG112MG11MG19ML23MG34MG20MG3ML13MG77MG3MG49MG16ML28MG10MG3MG4MG23MG15M2G6M2G6M2G7M2G6MG12MG13MG17MG14MG16M2G2ML12MG17MG11MG12MG11MG7MG14MG10MG7MG15MG9MG10M2G16MG3ML17MG12MG14M2G14MG17M2GMR6MR53MG59MG3M2G6MG5MG25MG12MG17MG14MG83M2G11MG76MG18MG5MG7MG19ML15ML39MG22MG5MG36MG10MG24MG24MR47MG4MR114MG6M2G59MG14MG20MR8MG54MG4ML116MG11MG4MG3MG8MG12MG6MG27MG35M2G24M2G17MG12MG54ML20MG36MG2M,2261M</interp>
 <entry>
 <form>nāval</form>
 <def>Jaumoon plum tree</def>
@@ -3073,6 +3080,266 @@
 <gramGrp>
   <gram type="role">masculine singular</gram>
   <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mai<c type="geminated">t</c></form>
+<def>kajal</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṭam</form>
+<def>wide</def>
+<form type="sandhi">taṭaṅ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇṇār</form>
+<def>eye-they</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tamakk<c type="elided">u</c>-um</form>
+<def>them</def>
+<form type="simple">tamakku</form>
+<form type="sandhi">tamakk</form>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">dative</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>eṉ</form>
+<def>me</def>
+<form type="sandhi">eṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">pronoun</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>payanta</form>
+<def>gave birth to</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cittirāpatikk<c type="elided">u</c>-um</form>
+<def>Cittirāpati</def>
+<form type="simple">cittirāpatikku</form>
+<form type="sandhi">cittirāpatikk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+  <gram type="role">proper name</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>ceppu</form>
+<def>tell</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nī</form>
+<def>you</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">pronoun</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>eṉa</form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>āṅk<c type="elided">u</c></form>
+<def>there</def>
+<form type="sandhi"><c type="glide">v</c>āṅk</form>
+<gramGrp>
+  <gram type="role">adverb</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>avaḷ</form>
+<def>she</def>
+<gramGrp>
+  <gram type="role">feminine singular</gram>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>urai</form>
+<def>speech</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kēṭṭ<c type="elided">u</c></form>
+<def>heard</def>
+<form type="sandhi">kēṭṭ</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>arum</form>
+<def>difficult</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peṟal</form>
+<def>obtaining</def>
+<form type="sandhi">peṟaṉ</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mā</form>
+<def>big/dark</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṇi</form>
+<def>gem/sapphire</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ōṅku</form>
+<def>be high</def>
+<gramGrp>
+  <gram type="role">verbal root as peyareccam imperfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tirai<c type="geminated">p</c></form>
+<def>wave</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+<form type="sandhi">peruṅ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṭal</form>
+<def>sea</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vīḻttōr</form>
+<def>threw-they</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pōṉṟu</form>
+<def>been similar</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maiyal</form>
+<def>frenzy</def>
+<form type="sandhi">maiyaṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>neñcamoṭu</form>
+<def>heart</def>
+<form type="sandhi">ṉeñcamoṭu</form>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vayantamālai-<c type="glide">y</c>um</form>
+<def>Vayantamālai</def>
+<form type="simple">vayantamālai</form>
+<gramGrp>
+  <gram type="role">proper name</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>kaiyaṟṟu<c type="geminated">p</c></form>
+<def>been prostrate/helpless</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peyarntaṉaḷ</form>
+<def>she returned</def>
+<gramGrp>
+  <gram type="role">feminine singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kārikai</form>
+<def>woman</def>
+<gramGrp>
+  <gram type="role">feminine</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tiṟatt<c type="elided">u</c></form>
+<def>on account of</def>
+<form type="sandhi">tiṟatt</form>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉ</form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 </standOff>
