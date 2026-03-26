@@ -1,14 +1,13 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title xml:lang="ta"><term xml:lang="en">Canto 3:</term> malarvaṉampukkakātai</title>
-        <title type="sub">The Canto in which [Maṇimēkalai and Cutamati] Enter the Flower Grove(171
+        <title type="sub">The Canto in which [Maṇimēkalai and Cutamati] Enter the Flower Grove (171
           lines)</title>
       </titleStmt>
       <publicationStmt>
-        <p />
+        <p/>
       </publicationStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
@@ -53,7 +52,7 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change />
+      <change/>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="ta">
@@ -63,7 +62,7 @@
         <p xml:lang="en">The third song, in which [Maṇimēkalai and Cutamati] enter the flower grove.</p>
       </div>
       <div>
-        <p type="edition" />
+        <p type="edition"/>
         <p type="translation" xml:lang="en">
         </p>
       </div>
@@ -98,4 +97,43 @@
 
 
 
-</TEI>
+<standOff corresp="#MM3-intro" type="wordsplit">
+<interp type="alignment" select="0">30M,29MG</interp>
+<entry>
+<form>mūṉṟāvatu</form>
+<def>three-it</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>malar</form>
+<def>blossom</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaṉam</form>
+<def>forest/grove</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pukka</form>
+<def>entered</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pāṭṭu</form>
+<def>song/canto</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
