@@ -1,0 +1,101 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="ta"><term xml:lang="en">Canto 3:</term> malarvaṉampukkakātai</title>
+        <title type="sub">The Canto in which [Maṇimēkalai and Cutamati] Enter the Flower Grove(171
+          lines)</title>
+      </titleStmt>
+      <publicationStmt>
+        <p />
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p>2.1-9 Mātavi's mother Cittirāpati, upset about the gossip that has arisen as a
+                result of Maṇimēkalai's and her absence from the Indra Festival, summons Mātavi's
+                confidante Vayantamālai to deliver a message to her. </p>
+
+              <p>2.10-17 Vayantamālai finds Mātavi and Maṇimēkalai in the pavillion. They are
+                weakened by asceticism. She asks what has happened.</p>
+
+              <p>2.18-32 Vayantamālai lists Mātavi's attainments as a dancer, to remind her of her
+                true calling.</p>
+
+              <p>2.33-36 Vayantamālai tells Mātavi that to avoid shaming gossip she must give up
+                her asceticism.</p>
+
+              <p>2.37-41 Mātavi replies that since losing her lover Kōvalaṉ she has renounced shame.</p>
+
+              <p>2.42-48 Mātavi lists the options open to widows: spontaneous death, the pyre, or
+                penance.</p>
+
+              <p>2.49-55b Mātavi cites Kaṇṇaki as a paragon of female virtue. </p>
+
+              <p>2.55c -57 Mātavi states her wish that Maṇimēkalai, who is Kaṇṇaki's daughter (by
+                marriage), renounce the courtesan life and become a nun.</p>
+
+              <p>2.58-69 Mātavi recounts how, after the death of Kōvalaṉ, she went to a Buddhist
+                teacher, Aṟavaṇa for instruction.</p>
+
+              <p>2.70-75 Mātavi concludes her speech to Vayantamālai with a request to report her
+                decision to Cittirāpati and the other women. Having failed to convince Mātavi,
+                Vayantamālai returns in despair to Cittirāpati.</p>
+
+
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change />
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta">
+    <body>
+      <div rend="parallel">
+        <p xml:id="MM3-intro">mūṉṟāvatu malarvaṉampukka pāṭṭu.</p>
+        <p xml:lang="en">The third song, in which [Maṇimēkalai and Cutamati] enter the flower grove.</p>
+      </div>
+      <div>
+        <p type="edition" />
+        <p type="translation" xml:lang="en">
+        </p>
+      </div>
+      <div rend="parallel">
+        <lg xml:id="MM3">
+          <l> vayanta mālaikku mātavi yuraitta</l>
+          <l>vuyaṅkunōy varuttat turaimuṉ ṟōṉṟi</l>
+          <l>māmalar nāṟṟam pōṉmaṇi mēkalaik</l>
+          <l>kētu nikaḻcci yetirntuḷa tātaliṟ</l>
+          <l>ṟantaiyun tāyun tānaṉi yuḻanta</l>
+          <l>ventuya riṭumpai ceviyakam vetuppak</l>
+          <l>kāta ṉeñcaṅ kalaṅkik kārikai</l>
+          <l>mātar ceṅkaṇ varivaṉap paḻittup</l>
+          <l>pulampunī ruruṭṭip potiyaviḻ naṟumala</l>
+          <l>rilaṅkitaḻ mālaiyai yiṭṭunī rāṭṭa</l>
+        </lg>
+        <lg xml:lang="en">
+
+    
+
+
+        </lg>
+      </div>
+    </body>
+  </text>
+  <text xml:lang="ta">
+    <body>
+      <p>ONE PARAGRAPH OF COMMENTARY</p>
+      <p>ANOTHER PARAGRAPH OF COMMENTARY</p>
+    </body>
+  </text>
+
+
+
+</TEI>
