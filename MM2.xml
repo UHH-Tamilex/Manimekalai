@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -7,7 +6,7 @@
         <title type="sub">The Canto in which Gossip in the City is Reported (75 lines)</title>
       </titleStmt>
       <publicationStmt>
-        <p />
+        <p/>
       </publicationStmt>
       <sourceDesc>
         <msDesc xml:lang="en">
@@ -52,7 +51,7 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change />
+      <change/>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="ta">
@@ -62,7 +61,7 @@
         <p xml:lang="en">The second song, in which gossip in the city is reported.</p>
       </div>
       <div>
-        <p type="edition" />
+        <p type="edition"/>
         <p type="translation" xml:lang="en">
         </p>
       </div>
@@ -1026,7 +1025,7 @@
     <entry>
       <form>iru</form>
       <def>two</def>
-    </entry>
+    <gramGrp><gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp></entry>
     <entry>
       <form>tiṟattu<c type="geminated">k</c></form>
       <def>constituent/type</def>
@@ -3068,7 +3067,7 @@
       <form><c type="glide">y</c>ai<c type="uncertain">m</c></form>
       <def>five</def>
       <form type="sandhi"><c type="glide">y</c>ai</form>
-    </entry>
+    <gramGrp><gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp></entry>
     <entry>
       <form>vakai<c type="geminated">c</c></form>
       <def>type</def>

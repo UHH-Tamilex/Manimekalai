@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -583,12 +583,12 @@
 <def>four</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
-</gramGrp>
+<gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp>
 </entry>
 <entry>
 <form>ēḻ</form>
 <def>seven</def>
-</entry>
+<gramGrp><gram type="role">noun</gram><gram type="role">numeral</gram></gramGrp></entry>
 <entry>
 <form>nāḷiṉ-um</form>
 <def>day</def>
@@ -989,7 +989,7 @@
 <entry>
 <form>eṇ</form>
 <def>eight</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp></entry>
 <entry>
 <form>pēr</form>
 <def>great</def>
@@ -1362,7 +1362,7 @@
 <form>āyiram</form>
 <def>thousand</def>
 <form type="sandhi">āyiraṅ</form>
-</entry>
+<gramGrp><gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp></entry>
 <entry>
 <form>kaṇṇōṉ</form>
 <def>eye-he</def>
@@ -1794,7 +1794,7 @@
 <form>āyiram</form>
 <def>thousand</def>
 <form type="sandhi">āyiraṅ</form>
-</entry>
+<gramGrp><gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp></entry>
 <entry>
 <form>kaṇṇōṉ</form>
 <def>eye-he</def>
@@ -1832,7 +1832,7 @@
 <def>four</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
-</gramGrp>
+<gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp>
 </entry>
 <entry>
 <form>vēṟu</form>
@@ -2648,7 +2648,7 @@
 <form type="sandhi"><c type="glide">y</c>āṟ</form>
 <gramGrp>
   <gram type="role">noun</gram>
-</gramGrp>
+<gram type="role">numeral</gram></gramGrp>
 </entry>
 <entry>
 <form>aṟi</form>
@@ -3075,12 +3075,12 @@
 <def>four</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
-</gramGrp>
+<gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp>
 </entry>
 <entry>
 <form>ēḻ</form>
 <def>seven</def>
-</entry>
+<gramGrp><gram type="role">noun</gram><gram type="role">numeral</gram></gramGrp></entry>
 <entry>
 <form>nāḷiṉ-um</form>
 <def>day</def>
